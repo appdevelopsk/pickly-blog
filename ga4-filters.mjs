@@ -11,7 +11,7 @@ import { createSign } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 
 const KEY = JSON.parse(
-  readFileSync('/Users/ken/Dropbox/pickly/.secrets/ga4-service-account.json', 'utf8'),
+  readFileSync('/Volumes/NAS/Projects/pickly/.secrets/ga4-service-account.json', 'utf8'),
 );
 
 export const PROPS = {

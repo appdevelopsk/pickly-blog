@@ -124,7 +124,51 @@ const PASSIVE_FAB = {
 // 翻訳されずに残った英語の定型。非enページに出ていたら未翻訳。
 const EN_BOILERPLATE = "Compared on published specs, manufacturer data and independent reviews";
 
-const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [], emptyHeading: [], noDesc: [], longDesc: [], shortDesc: [], noH1: [], multiH1: [], noAlt: [] };
+// ---- en 単独キーの英語露出 (2026-09-10) -------------------------------------
+// なぜ固定文字列1本では足りないか:
+//   en にだけ新しいキーを足すと、loadArticleContent の `{...en, ...locale}` により
+//   ロケール側に無いキーが英語のまま可視描画される。2026-08-12 に BODY_KEYS で
+//   防御を作ったが、あれは「そのキーが欠けたら noindex」の判定であって、
+//   新しく増えたキーは見ていない。実際 quickAnswer が index 対象 8,860ページ、
+//   recommendedFor が 141ページで英語のまま出ていた（どちらも robots は index）。
+//   キー名を列挙する方式は「次のキー」に効かないので、
+//   **en ソースの長い文字列そのもの**を集めて非enページの可視テキストと突き合わせる。
+const ART_DIR = "src/articles";
+const EN_MIN_LEN = 40;   // 固有名詞や短い語は言語をまたいで一致しうる。長い文字列だけ見る。
+const enStringsBySlug = new Map();   // slug -> string[]
+
+function collectStrings(v, out) {
+  if (typeof v === "string") { const t = v.trim(); if (t.length >= EN_MIN_LEN) out.push(t); }
+  else if (Array.isArray(v)) for (const x of v) collectStrings(x, out);
+  else if (v && typeof v === "object") for (const x of Object.values(v)) collectStrings(x, out);
+}
+
+try {
+  for (const slug of readdirSync(ART_DIR)) {
+    const f = join(ART_DIR, slug, "messages", "en.json");
+    let en;
+    try { en = JSON.parse(readFileSync(f, "utf8")); } catch { continue; }
+    // 本文キーは対象外。欠けるとページが空になるので noindex 側(BODY_KEYS)の管轄で、
+    // ここで拾うと「未翻訳記事」全体が二重に報告されるだけになる。
+    const out = [];
+    for (const [k, v] of Object.entries(en)) {
+      if (k === "sections" || k === "products" || k === "faqs") continue;
+      collectStrings(v, out);
+    }
+    if (out.length) enStringsBySlug.set(slug, out);
+  }
+} catch { /* src/articles が無い実行環境ではこの検査を飛ばす */ }
+
+function visibleText(html) {
+  return unescapeHtml(
+    html
+      .replace(/<script[\s\S]*?<\/script>/g, " ")
+      .replace(/<style[\s\S]*?<\/style>/g, " ")
+      .replace(/<[^>]+>/g, " "),
+  ).replace(/\s+/g, " ");
+}
+
+const problems = { untaggedAffiliate: [], deadAffiliate: [], emptyTitle: [], wideTitle: [], rawKey: [], doubleBrand: [], fabricated: [], passiveFab: [], enBoilerplate: [], enOnlyKeyLeak: [], emptyHeading: [], noDesc: [], longDesc: [], shortDesc: [], noH1: [], multiH1: [], noAlt: [] };
 
 // meta description の枠 (2026-08-22 追加)。Bing Webmaster Tools の Recommendations が
 // 全プロパティで「メタ説明が長すぎ/短すぎ」を報告しており、pickly だけで 160字超 2,686件・
@@ -172,6 +216,16 @@ for (const file of pages) {
       const head = html.slice(0, html.indexOf("</head>") + 7);
       for (const m of unescapeHtml(head).matchAll(pre)) {
         problems.passiveFab.push(`${rel}  …${m[0]}…`);
+      }
+    }
+    // en 単独キーが英語のまま可視で出ていないか。noindex ページは SERP に出ないので対象外。
+    if (loc !== "en" && !/<meta name="robots" content="[^"]*noindex/i.test(html)) {
+      const m = rel.match(/^[^/]+\/articles\/([^/]+)$/);
+      const list = m ? enStringsBySlug.get(m[1]) : null;
+      if (list) {
+        const vis = visibleText(html);
+        const hit = list.find((t) => vis.includes(t));
+        if (hit) problems.enOnlyKeyLeak.push(`${rel}  …${hit.slice(0, 70)}…`);
       }
     }
     if (loc !== "en" && html.includes(EN_BOILERPLATE)) {
@@ -256,6 +310,7 @@ const checks = [
   ["やっていない一次テストを一人称で主張している", problems.fabricated],
   ["やっていない一次テストを受動態で主張している（title/meta）", problems.passiveFab],
   ["非enページに英語の定型文が残っている（未翻訳）", problems.enBoilerplate],
+  ["非enページに en 単独キーの英語が可視で出ている", problems.enOnlyKeyLeak],
   ["見出しタグ(h1-h3)が空（カードタイトル欠落）", problems.emptyHeading],
   ["meta description が無い", problems.noDesc],
 ];

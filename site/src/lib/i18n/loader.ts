@@ -5,6 +5,10 @@ import path from "path";
 
 type Messages = Record<string, unknown>;
 
+function isPlainObject(v: unknown): v is Messages {
+  return typeof v === "object" && v !== null && !Array.isArray(v);
+}
+
 function deepMerge(base: Messages, override: Messages): Messages {
   const result: Messages = { ...base };
   for (const key of Object.keys(override)) {
@@ -86,8 +90,51 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
   try {
     const mod = await import(`@/articles/${slug}/messages/${locale}.json`);
     const localized = normalizeArticleMessages(mod.default as Messages, slug);
+    // 機構1: ロケール側にキーが無く en から埋まる。
     const fellBack = Object.keys(base).filter((k) => localized[k] === undefined);
-    return { ...base, ...localized, [EN_FALLBACK_KEYS]: fellBack };
+    // 機構2: キーは在るが値が en と同一 = 翻訳されていない。__enFallback はキー単位なので
+    //   これを足さないと原理的に検出できない(2026-09-10 実測 offerNotes 1,558・methodology 67
+    //   の記事×ロケール)。文字列値はキーごと、dict 値は `key.subKey` 形式で個別に落とす。
+    //   offerNotes は offer id ごとに独立した一文なので、片方が未翻訳でも
+    //   翻訳済みの側は残す必要がある。
+    const untranslated: string[] = [];
+    for (const k of Object.keys(localized)) {
+      const b = base[k];
+      const o = localized[k];
+      if (typeof b === "string" && typeof o === "string") {
+        if (b.trim() === o.trim() && b.trim() !== "") untranslated.push(k);
+      } else if (isPlainObject(b) && isPlainObject(o)) {
+        for (const sub of Object.keys(o)) {
+          const bv = b[sub];
+          const ov = o[sub];
+          if (typeof bv === "string" && typeof ov === "string" && bv.trim() === ov.trim() && bv.trim() !== "") {
+            untranslated.push(`${k}.${sub}`);
+          }
+        }
+      } else if (Array.isArray(b) && Array.isArray(o)) {
+        // recommendedFor のような {offerId,label,reason} の配列。ロケール側で
+        // reason だけ訳して label が英語のまま、という部分翻訳が実在する
+        // (2026-09-10: 4記事×7ロケール)。要素単位で見て、英語のまま残った要素を
+        // `key.<offerId>` として落とす。offerId が無い形は添字で識別する。
+        for (let i = 0; i < o.length; i++) {
+          const ov = o[i];
+          if (!isPlainObject(ov)) continue;
+          const id = typeof ov.offerId === "string" ? ov.offerId : String(i);
+          // 同じ offerId の en 要素と突き合わせる。無ければ同じ位置の要素。
+          const bv = (b as unknown[]).find(
+            (x) => isPlainObject(x) && typeof x.offerId === "string" && x.offerId === id,
+          ) ?? b[i];
+          if (!isPlainObject(bv)) continue;
+          const sameField = Object.keys(ov).some((f) => {
+            const a = bv[f];
+            const c = ov[f];
+            return typeof a === "string" && typeof c === "string" && a.trim() === c.trim() && a.trim() !== "" && f !== "offerId";
+          });
+          if (sameField) untranslated.push(`${k}.${id}`);
+        }
+      }
+    }
+    return { ...base, ...localized, [EN_FALLBACK_KEYS]: [...fellBack, ...untranslated] };
   } catch {
     return { ...base, [EN_FALLBACK_KEYS]: Object.keys(base) };
   }
