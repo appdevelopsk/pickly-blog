@@ -204,8 +204,15 @@ jobs:
       - run: npm ci
         working-directory: site
       - name: 価格データの鮮度を確認
-        # PA-API 鍵の登録が済むまでは落とさず警告のみ（WARN_ONLY を外すのは移行完了後）
-        env:
-          WARN_ONLY: "1"
+        # WARN_ONLY は外した（2026-09-12）。
+        #
+        # 「PA-API 鍵の登録が済むまで」という理由で置かれていたが、鍵が無い間は
+        # check-price-staleness.ts 側が Amazon を警告止まり（problems に入れない）に
+        # しているので、WARN_ONLY が無くても Amazon が理由で赤くなることはない。
+        # 現在のデータで素のまま実行して exit 0 になることを実測で確認済み。
+        #
+        # 一方で WARN_ONLY が残っていると、楽天/Yahoo の鮮度超過も、PR #25 で
+        # 入れた「全件横ばい」検出も、すべて緑のまま通ってしまう。止まったことに
+        # 気づくためのゲートが常に緑なら意味がない。
         run: npm run prices:staleness
         working-directory: site
