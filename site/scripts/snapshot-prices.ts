@@ -59,6 +59,23 @@ function today(): string {
   return t.toISOString().slice(0, 10);
 }
 
+/**
+ * 1商品1行で書き出す（JSON としては通常の1オブジェクト）。
+ *
+ * 全体を1行にすると、daily と refresh が同じ日に push を競った際の rebase で
+ * 必ずファイル全体が衝突する（2026-09-11 の daily 失敗）。商品ごとに改行を入れると
+ * 実際に同じ商品が更新されたときだけ衝突するので、競合がほぼ起きなくなる。
+ * 読み手は JSON.parse するだけなので整形の変更は影響しない。
+ */
+function serialize(history: History): string {
+  const ids = Object.keys(history).sort();
+  if (!ids.length) return "{}\n";
+  const lines = ids.map(
+    (id) => `${JSON.stringify(id)}:${JSON.stringify(history[id])}`,
+  );
+  return `{\n${lines.join(",\n")}\n}\n`;
+}
+
 function main() {
   const rk = readJson<Record<string, CacheEntry>>(RK_PATH, {});
   const yh = readJson<Record<string, CacheEntry>>(YH_PATH, {});
@@ -101,7 +118,7 @@ function main() {
     console.log("DRY_RUN=1 のため書き込みませんでした。");
     return;
   }
-  writeFileSync(HISTORY_PATH, JSON.stringify(history) + "\n");
+  writeFileSync(HISTORY_PATH, serialize(history));
   console.log(`wrote ${HISTORY_PATH}`);
 }
 

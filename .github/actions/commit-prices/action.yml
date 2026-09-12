@@ -11,6 +11,14 @@ inputs:
   paths:
     description: コミット対象（空白区切り。ここに挙げたパス以外は絶対に触らない）
     required: true
+  regenerate:
+    description: >-
+      rebase が衝突したときに、取り込んだ最新ツリーに対して再実行するコマンド。
+      price-history.json のような「生成物」は行単位の解決に意味がないため、
+      テキストで解こうとせず最新の入力から作り直す。
+      空なら従来どおり衝突で失敗させる。
+    required: false
+    default: ""
 
 runs:
   using: composite
@@ -19,6 +27,7 @@ runs:
       env:
         COMMIT_MESSAGE: ${{ inputs.message }}
         COMMIT_PATHS: ${{ inputs.paths }}
+        COMMIT_REGENERATE: ${{ inputs.regenerate }}
       run: |
         set -euo pipefail
         git config user.name "github-actions[bot]"
@@ -35,16 +44,80 @@ runs:
 
         git commit -m "$COMMIT_MESSAGE [skip ci]"
 
+        # 衝突した生成物を「最新の入力から作り直して」解決する。
+        #
+        # price-history.json / *-cache.json は生成物であり、かつ1ファイル1行の
+        # JSON なので、並行して書かれると必ず行全体が衝突する（2026-09-11 の
+        # daily 失敗がこれ: refresh の push 直後に daily が rebase して衝突）。
+        # 衝突ハンクをテキストで混ぜると壊れた JSON になりかねないので、
+        # 「相手の版を採用 → 自分のコマンドを再実行」で意味的に解決する。
+        resolve_by_regenerating() {
+          if [ -z "$COMMIT_REGENERATE" ]; then
+            return 1
+          fi
+
+          local conflicted
+          conflicted="$(git diff --name-only --diff-filter=U)"
+          if [ -z "$conflicted" ]; then
+            return 1
+          fi
+
+          # 想定外のファイル（記事やコード）が衝突している場合は触らない。
+          # ここで握りつぶすと人間のレビューなしにコードが混ざる。
+          local f
+          while IFS= read -r f; do
+            case " $COMMIT_PATHS " in
+              *" $f "*) ;;
+              *)
+                echo "生成物以外が衝突しています: $f" >&2
+                return 1
+                ;;
+            esac
+          done <<< "$conflicted"
+
+          echo "衝突した生成物を作り直して解決します: $(echo "$conflicted" | tr '\n' ' ')"
+
+          # まず取り込んだ main 側の版に揃えてから再生成する。
+          # rebase 中は --ours が「rebase 先＝最新の main」、--theirs が
+          # 「今 replay している自分のコミット」である点に注意（merge と逆）。
+          # ここを取り違えると相手の成果を消したまま push が成功してしまう。
+          while IFS= read -r f; do
+            git checkout --ours -- "$f"
+          done <<< "$conflicted"
+
+          if ! bash -c "$COMMIT_REGENERATE"; then
+            echo "再生成コマンドが失敗しました。" >&2
+            return 1
+          fi
+
+          # shellcheck disable=SC2086
+          git add -- $COMMIT_PATHS
+
+          if git diff --cached --quiet; then
+            # 相手の版と同じ内容になった＝自分の差分は不要。
+            echo "再生成の結果、追加の差分はありませんでした。"
+            GIT_EDITOR=true git rebase --skip
+          else
+            GIT_EDITOR=true git rebase --continue
+          fi
+        }
+
         # 他ジョブと競合したら rebase してやり直す。
-        # rebase 対象は価格データだけなので衝突は起きにくいが、
-        # 起きた場合は握りつぶさず失敗させる（黙って壊れるより赤くする）。
         for attempt in 1 2 3 4 5; do
           if git push origin HEAD:main; then
             echo "push 成功 (試行 $attempt)"
             exit 0
           fi
           echo "push が拒否されました。rebase して再試行します (試行 $attempt)"
-          git pull --rebase --autostash origin main
+
+          if ! git pull --rebase --autostash origin main; then
+            if ! resolve_by_regenerating; then
+              echo "rebase の衝突を自動解決できませんでした。" >&2
+              git rebase --abort || true
+              exit 1
+            fi
+          fi
+
           sleep $((attempt * 5))
         done
 

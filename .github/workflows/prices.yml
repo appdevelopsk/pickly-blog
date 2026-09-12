@@ -83,6 +83,11 @@ jobs:
           paths: >-
             site/src/lib/affiliates/prices-override.ts
             site/src/lib/affiliates/price-history.json
+          # price-history.json は1ファイル1行の生成物なので、並行 push と
+          # rebase がぶつかると必ず行全体が衝突する。テキストで解かず、
+          # 取り込んだ最新キャッシュからスナップショットを取り直す
+          # （外部APIは叩かない・数秒）。
+          regenerate: npm --prefix site run prices:snapshot
 
   # ── 週2回: 楽天/Yahoo 全件リフレッシュ ────────────────────────────────────
   # ── 週2回: 楽天の全件リフレッシュ ────────────────────────────────────────
@@ -127,6 +132,7 @@ jobs:
           paths: >-
             site/src/lib/affiliates/rakuten-cache.json
             site/src/lib/affiliates/price-history.json
+          regenerate: npm --prefix site run prices:snapshot
 
   # ── 週2回: Yahoo の全件リフレッシュ ──────────────────────────────────────
   refresh-yahoo:
@@ -175,6 +181,7 @@ jobs:
           paths: >-
             site/src/lib/affiliates/yahoo-cache.json
             site/src/lib/affiliates/price-history.json
+          regenerate: npm --prefix site run prices:snapshot
 
   # ── 鮮度ゲート ────────────────────────────────────────────────────────────
   staleness:
