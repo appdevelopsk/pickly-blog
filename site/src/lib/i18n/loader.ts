@@ -79,6 +79,48 @@ export function normalizeArticleMessages(raw: Messages, slug?: string): Messages
  */
 export const EN_FALLBACK_KEYS = "__enFallback";
 
+/**
+ * 母語スクリプトを持つロケールと、その文字クラス。ここに無いロケール
+ * (fr/es/de/it/pt-BR/tr/id) は en と同じラテン文字を使うため、
+ * 「字種で未翻訳を見抜く」手は原理的に使えない。実測でこれらに同じ規則を
+ * 当てると、正しく訳された約28万件が全部未翻訳に見える。
+ */
+const NATIVE_SCRIPT: Record<string, RegExp> = {
+  ja: /[\u3040-\u30ff\u4e00-\u9fff]/,
+  ko: /[\uac00-\ud7af\u1100-\u11ff]/,
+  "zh-CN": /[\u4e00-\u9fff]/,
+  "zh-TW": /[\u4e00-\u9fff]/,
+  th: /[\u0e00-\u0e7f]/,
+  ru: /[\u0400-\u04ff]/,
+  ar: /[\u0600-\u06ff]/,
+  hi: /[\u0900-\u097f]/,
+};
+
+/** 機構3 の最小長。これ未満は型番・単位・製品名で誤検出が出る。 */
+const UNTRANSLATED_MIN_LEN = 40;
+
+/**
+ * 機構3: 値は en と違うが、そのロケールの文字を1つも含まない = 未翻訳。
+ *
+ * 機構2(完全一致)は通貨・単位のローカライズだけが入った文を取りこぼす。
+ * 実測 (2026-09-12): en `...at $9.` に対し ja `...at US$9.` のように
+ * 2文字だけ違い、本文は英語のまま。offerNotes 129・products 221・
+ * sections 86・recommendedFor 63 など計518件がこれで素通りしていた。
+ *
+ * en 側に対応する文字列が在ることを呼び出し側で確かめてから使う。
+ * specs のように「キーは訳され値は型番のままが正しい」ものが在り
+ * (実測48件: `노트북 호환성: MacBook Air 13"/15"` など)、en 対応の無い値を
+ * 拾うとこれを未翻訳と誤判定する。
+ */
+function looksUntranslated(en: string, loc: string, locale: string): boolean {
+  const script = NATIVE_SCRIPT[locale];
+  if (!script) return false;
+  const v = loc.trim();
+  if (v.length < UNTRANSLATED_MIN_LEN) return false;
+  if (en.trim() === "" || en.trim() === v) return false;   // 空と完全一致は機構2の担当
+  return !script.test(v);
+}
+
 export async function loadArticleContent(slug: string, locale: string): Promise<Messages> {
   let base: Messages = {};
   try {
@@ -102,12 +144,15 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
       const b = base[k];
       const o = localized[k];
       if (typeof b === "string" && typeof o === "string") {
-        if (b.trim() === o.trim() && b.trim() !== "") untranslated.push(k);
+        if ((b.trim() === o.trim() && b.trim() !== "") || looksUntranslated(b, o, locale)) untranslated.push(k);
       } else if (isPlainObject(b) && isPlainObject(o)) {
         for (const sub of Object.keys(o)) {
           const bv = b[sub];
           const ov = o[sub];
-          if (typeof bv === "string" && typeof ov === "string" && bv.trim() === ov.trim() && bv.trim() !== "") {
+          if (
+            typeof bv === "string" && typeof ov === "string" &&
+            ((bv.trim() === ov.trim() && bv.trim() !== "") || looksUntranslated(bv, ov, locale))
+          ) {
             untranslated.push(`${k}.${sub}`);
           }
         }
@@ -128,7 +173,8 @@ export async function loadArticleContent(slug: string, locale: string): Promise<
           const sameField = Object.keys(ov).some((f) => {
             const a = bv[f];
             const c = ov[f];
-            return typeof a === "string" && typeof c === "string" && a.trim() === c.trim() && a.trim() !== "" && f !== "offerId";
+            if (typeof a !== "string" || typeof c !== "string" || f === "offerId") return false;
+            return (a.trim() === c.trim() && a.trim() !== "") || looksUntranslated(a, c, locale);
           });
           if (sameField) untranslated.push(`${k}.${id}`);
         }
