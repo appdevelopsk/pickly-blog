@@ -37,7 +37,7 @@ export function LocaleSwitcher() {
         className="flex items-center gap-1 rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1.5 text-xs font-medium text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-600 transition-colors"
       >
         <span aria-hidden className="text-sm">🌐</span>
-        <span className="hidden sm:inline">{current?.code.toUpperCase() ?? locale.toUpperCase()}</span>
+        <span>{current?.code.toUpperCase() ?? locale.toUpperCase()}</span>
       </button>
 
       {open && (
