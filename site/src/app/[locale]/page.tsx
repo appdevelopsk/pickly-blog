@@ -11,12 +11,16 @@ import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
 import BrandVideo from "@/components/BrandVideo";
 import { COMPARISONS } from "@/lib/pages/compare-config";
+import { USE_CASES } from "@/lib/pages/usecase-config";
+import { OCCASIONS } from "@/lib/pages/gift-config";
+import { VALID_BUDGETS, budgetAmountLabel } from "@/lib/affiliates/budget";
 import { TAGS } from "@/lib/pages/tag-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { resolvePrice } from "@/lib/affiliates/price";
 import { seoDescription } from "@/lib/seo/meta-description";
+import { shortTitle, stripYear } from "@/lib/articles/short-title";
 
 // ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -68,6 +72,12 @@ const CATEGORY_ICONS: Record<string, string> = {
   pets: "🐾",
 };
 
+// 表示順。記事数ではなく固定順にして、ビルドごとに並びが動かないようにする。
+const CATEGORY_ORDER = [
+  "food", "fitness", "home", "tech", "beauty",
+  "fashion", "travel", "pets", "finance", "parenting",
+];
+
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
 }
@@ -108,14 +118,58 @@ export default async function HomePage({ params }: Props) {
     .slice(0, 16);
   const [featured, ...gridArticles] = recent;
 
-  const categoryCounts: Record<string, number> = {};
-  for (const a of allArticles) {
-    categoryCounts[a.category] = (categoryCounts[a.category] ?? 0) + 1;
+  // ── カテゴリ表(価格.com 型) ─────────────────────────────────────────────
+  // ★ピル(上位6件)では travel/parenting/pets/finance がトップ本文から漏れていた。
+  //   全10カテゴリを常に出し、各カテゴリ直下に品目リンクを更新日順で並べる。
+  const DIRECTORY_ITEMS_PER_CATEGORY = 8;
+  const byCategory: Record<string, ArticleMeta[]> = {};
+  for (const a of articles) {
+    (byCategory[a.category] ??= []).push(a);
   }
-  const topCategories = Object.entries(categoryCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 6)
-    .map(([cat]) => cat);
+  // 人気ランキング: /popular と同じ基準(比較商品数の多い順)に揃える。
+  const ranking = [...articles]
+    .sort((a, b) => b.offerIds.length - a.offerIds.length)
+    .slice(0, 10);
+
+  // 新着: 公開日の新しい順。カードでなく1行リストにして密度を上げる。
+  // ★素直に日付順だけで切ると、同じ日に一括投入されたカテゴリ(parenting 等)が
+  //   12件中9件を占めて「新着」が1カテゴリの羅列になる。カテゴリごとに順番に
+  //   拾うラウンドロビンで散らす。
+  const newestSorted = [...articles].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+  const newestQueues = new Map<string, ArticleMeta[]>();
+  for (const a of newestSorted) {
+    const q = newestQueues.get(a.category);
+    if (q) q.push(a);
+    else newestQueues.set(a.category, [a]);
+  }
+  const newest: ArticleMeta[] = [];
+  while (newest.length < 12) {
+    let picked = false;
+    for (const q of newestQueues.values()) {
+      const next = q.shift();
+      if (!next) continue;
+      newest.push(next);
+      picked = true;
+      if (newest.length >= 12) break;
+    }
+    if (!picked) break;
+  }
+  // 新着リストに出した記事をカードで二度出さない(価格.com 型は重複を嫌う)。
+  const newestSlugs = new Set(newest.map((a) => a.slug));
+
+  const directory = CATEGORY_ORDER.filter((cat) => (byCategory[cat]?.length ?? 0) > 0).map((category) => {
+    const list = [...(byCategory[category] ?? [])].sort((a, b) =>
+      (b.updatedAt ?? b.publishedAt).localeCompare(a.updatedAt ?? a.publishedAt),
+    );
+    return {
+      category,
+      total: list.length,
+      items: list.slice(0, DIRECTORY_ITEMS_PER_CATEGORY).map((a) => ({
+        slug: a.slug,
+        name: shortTitle(loadArticleCardMeta(a.slug, locale).title),
+      })),
+    };
+  });
 
   const orgSchema = {
     "@context": "https://schema.org",
@@ -145,10 +199,8 @@ export default async function HomePage({ params }: Props) {
   };
 
   let heading = "Real reviews, no filler.";
-  let subheading = "Honest comparisons and buyer's guides across 17 languages.";
   let navArticles = "Browse all reviews";
   try { heading = t("home.heading"); } catch { /* missing */ }
-  try { subheading = t("home.subheading"); } catch { /* missing */ }
   try { navArticles = t("nav.articles"); } catch { /* missing */ }
 
   function getArticleText(a: ArticleMeta) {
@@ -165,97 +217,166 @@ export default async function HomePage({ params }: Props) {
       {/* ── Brand video (17ロケール・フルブリード自動再生) ── */}
       <BrandVideo locale={locale} />
 
-      <div className="mx-auto max-w-5xl px-4 pb-20">
+      <div className="mx-auto max-w-6xl px-4 pb-20">
+        <div className="gap-8 pt-6 md:pt-8 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
 
-        {/* ── Hero ──────────────────────────────────────── */}
-        <section className="py-14 text-center md:py-20">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-1.5 text-xs font-semibold text-slate-500 tracking-wide shadow-sm">
-            <span className="inline-block h-1.5 w-1.5 animate-pulse rounded-full bg-emerald-500" />
-            {tt("home.heroStats", `${articles.length} reviews · 17 languages`, { count: articles.length, languages: 17 })}
+          {/* ── 左サイドバー: 全カテゴリ常設(価格.com 同様) ────────────── */}
+          {/* ★スマホでは横スクロールの帯になる。lg 以上でだけ縦一列に固定する。 */}
+          <aside className="mb-6 lg:mb-0">
+            <nav className="lg:sticky lg:top-4">
+              <ul className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 lg:mx-0 lg:block lg:space-y-0.5 lg:overflow-visible lg:px-0 lg:pb-0">
+                {directory.map(({ category, total }) => {
+                  let label = category;
+                  try { label = t(`category.${category}`); } catch { /* missing */ }
+                  return (
+                    <li key={category} className="shrink-0">
+                      <Link
+                        href={`/category/${category}`}
+                        data-related="home-sidebar"
+                        className="flex items-center gap-2 whitespace-nowrap rounded-lg border border-slate-200 px-3 py-2 text-sm font-medium text-slate-600 transition-colors hover:bg-slate-50 hover:text-brand-700 lg:border-0 lg:px-2 lg:py-1.5"
+                      >
+                        {CATEGORY_ICONS[category] && <span aria-hidden>{CATEGORY_ICONS[category]}</span>}
+                        <span>{label}</span>
+                        <span className="ml-auto hidden text-xs text-slate-400 lg:inline">{total}</span>
+                      </Link>
+                    </li>
+                  );
+                })}
+              </ul>
+            </nav>
+          </aside>
+
+          {/* ── メインカラム ─────────────────────────────────────────── */}
+          <main>
+
+        {/* ── Category directory (価格.com 型: カテゴリ×品目の2階層) ── */}
+        <section>
+          <div className="mb-6 flex items-baseline justify-between gap-3">
+            <h1 className="text-2xl font-black tracking-tight text-slate-900 md:text-3xl">
+              {heading}
+            </h1>
+            <span className="shrink-0 text-xs font-medium text-slate-500">
+              {tt("home.heroStats", `${articles.length} reviews · 17 languages`, { count: articles.length, languages: 17 })}
+            </span>
           </div>
-          <h1 className="mx-auto mb-4 max-w-2xl text-4xl font-black tracking-tight text-slate-900 [word-break:keep-all] md:text-5xl lg:text-6xl">
-            {heading}
-          </h1>
-          <p className="mx-auto max-w-lg text-base leading-relaxed text-slate-500 md:text-lg">
-            {subheading}
-          </p>
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
-            <Link
-              href="/ranking"
-              data-related="home-hero-cta"
-              className="inline-flex items-center gap-2 rounded-xl bg-brand-600 px-6 py-3 text-sm font-bold text-white shadow-md transition-all hover:-translate-y-0.5 hover:bg-brand-700 hover:shadow-lg"
-            >
-              🏆 Rankings →
-            </Link>
-            <Link
-              href="/articles"
-              data-related="home-hero-cta"
-              className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-6 py-3 text-sm font-semibold text-slate-600 shadow-sm transition-all hover:border-brand-300 hover:text-brand-700"
-            >
-              {navArticles}
-            </Link>
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-slate-200 bg-slate-200 md:grid-cols-2">
+            {directory.map(({ category, items, total }) => {
+              let label = category;
+              try { label = t(`category.${category}`); } catch { /* missing */ }
+              return (
+                <div key={category} className="bg-white p-4 md:p-5">
+                  <Link
+                    href={`/category/${category}`}
+                    data-related="home-category"
+                    className="flex items-center gap-2 text-sm font-bold text-slate-900 hover:text-brand-700"
+                  >
+                    {CATEGORY_ICONS[category] && <span aria-hidden>{CATEGORY_ICONS[category]}</span>}
+                    <span>{label}</span>
+                    <span className="text-xs font-medium text-slate-400">({total})</span>
+                  </Link>
+                  <ul className="mt-2.5 flex flex-wrap gap-x-3 gap-y-1.5">
+                    {items.map((it) => (
+                      <li key={it.slug}>
+                        <Link
+                          href={`/articles/${it.slug}`}
+                          data-related="home-directory"
+                          className="text-[13px] leading-snug text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                        >
+                          {it.name}
+                        </Link>
+                      </li>
+                    ))}
+                    <li>
+                      <Link
+                        href={`/category/${category}`}
+                        data-related="home-directory-more"
+                        className="text-[13px] font-semibold leading-snug text-brand-600 hover:text-brand-700"
+                      >
+                        {tt("pages.viewAll", "View all →")}
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              );
+            })}
           </div>
         </section>
 
-        {/* ── Category pills ────────────────────────────── */}
-        {topCategories.length > 0 && (
-          <nav className="mb-12 flex flex-wrap justify-center gap-2">
-            {topCategories.map((cat) => {
-              let label = cat;
-              try { label = t(`category.${cat}`); } catch { /* missing */ }
-              return (
-                <Link
-                  key={cat}
-                  href={`/category/${cat}`}
-                  data-related="home-category"
-                  className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-600 shadow-sm transition-colors hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
-                >
-                  {CATEGORY_ICONS[cat] && <span>{CATEGORY_ICONS[cat]}</span>}
-                  <span>{label}</span>
-                  <span className="text-xs text-slate-500">({categoryCounts[cat]})</span>
-                </Link>
-              );
-            })}
-          </nav>
-        )}
+        {/* ── 人気ランキング + 新着(価格.com 型の2枠並び) ───────────── */}
+        <div className="mt-10 grid gap-6 lg:grid-cols-2">
 
-        {/* ── How we choose products (E-E-A-T / trust) ─────── */}
-        {(() => {
-          let trustTitle = "";
-          let trustIntro = "";
-          try { trustTitle = t("home.trustTitle"); } catch { /* missing */ }
-          try { trustIntro = t("home.trustIntro"); } catch { /* missing */ }
-          if (!trustTitle) return null;
-          const items: { titleKey: string; textKey: string; icon: string }[] = [
-            { titleKey: "home.trustTestedTitle", textKey: "home.trustTestedText", icon: "📄" },
-            { titleKey: "home.trustCriteriaTitle", textKey: "home.trustCriteriaText", icon: "📊" },
-            { titleKey: "home.trustDisclosureTitle", textKey: "home.trustDisclosureText", icon: "🔍" },
-            { titleKey: "home.trustUpdatedTitle", textKey: "home.trustUpdatedText", icon: "🔄" },
-          ];
-          return (
-            <section className="mb-12 rounded-2xl border border-slate-200 bg-slate-50 p-6 md:p-8">
-              <h2 className="text-xl font-bold text-slate-900">{trustTitle}</h2>
-              <p className="mt-2 text-sm text-slate-600">{trustIntro}</p>
-              <div className="mt-5 grid gap-5 md:grid-cols-2">
-                {items.map((it) => {
-                  let title = ""; let text = "";
-                  try { title = t(it.titleKey); } catch { /* missing */ }
-                  try { text = t(it.textKey); } catch { /* missing */ }
-                  if (!title) return null;
-                  return (
-                    <div key={it.titleKey}>
-                      <h3 className="flex items-center gap-2 text-sm font-bold text-slate-900">
-                        <span aria-hidden>{it.icon}</span>
-                        {title}
-                      </h3>
-                      <p className="mt-1 text-sm text-slate-600 leading-relaxed">{text}</p>
-                    </div>
-                  );
-                })}
-              </div>
-            </section>
-          );
-        })()}
+          {/* 人気ランキング */}
+          <section className="rounded-2xl border border-slate-200 bg-white p-5">
+            <div className="mb-3 flex items-baseline justify-between gap-2">
+              <h2 className="text-base font-black text-slate-900">
+                🏆 {tt("home.popularTitle", "Most popular")}
+              </h2>
+              <Link href="/popular" data-related="home-ranking-more" className="text-xs font-semibold text-brand-600 hover:text-brand-700">
+                {tt("pages.viewAll", "View all →")}
+              </Link>
+            </div>
+            <ol className="space-y-1">
+              {ranking.map((a, i) => {
+                const { title, catLabel } = getArticleText(a);
+                return (
+                  <li key={a.slug}>
+                    <Link
+                      href={`/articles/${a.slug}`}
+                      data-related="home-ranking"
+                      className="flex items-baseline gap-2.5 rounded-lg px-2 py-1.5 transition-colors hover:bg-slate-50"
+                    >
+                      <span
+                        className={`w-5 shrink-0 text-center text-xs font-black ${i < 3 ? "text-brand-600" : "text-slate-400"}`}
+                      >
+                        {i + 1}
+                      </span>
+                      <span className="min-w-0 flex-1 truncate text-[13px] text-slate-700">
+                        {shortTitle(title)}
+                      </span>
+                      <span className="hidden shrink-0 text-[11px] text-slate-400 sm:inline">{catLabel}</span>
+                    </Link>
+                  </li>
+                );
+              })}
+            </ol>
+          </section>
+
+          {/* 新着レビュー(リスト形式) */}
+          <section className="rounded-2xl border border-slate-200 bg-white p-5">
+            <div className="mb-3 flex items-baseline justify-between gap-2">
+              <h2 className="text-base font-black text-slate-900">
+                🆕 {tt("pages.newTitle", "New this month")}
+              </h2>
+              <Link href="/new" data-related="home-newest-more" className="text-xs font-semibold text-brand-600 hover:text-brand-700">
+                {tt("pages.viewAll", "View all →")}
+              </Link>
+            </div>
+            <ul className="space-y-1">
+              {newest.map((a) => {
+                const { title, catLabel } = getArticleText(a);
+                return (
+                  <li key={a.slug}>
+                    <Link
+                      href={`/articles/${a.slug}`}
+                      data-related="home-newest"
+                      className="flex items-baseline gap-2.5 rounded-lg px-2 py-1.5 transition-colors hover:bg-slate-50"
+                    >
+                      <span className="min-w-0 flex-1 truncate text-[13px] text-slate-700">
+                        {shortTitle(title)}
+                      </span>
+                      {isNew(a) && (
+                        <span className="shrink-0 rounded bg-rose-50 px-1.5 text-[10px] font-bold text-rose-600">
+                          NEW
+                        </span>
+                      )}
+                      <span className="hidden shrink-0 text-[11px] text-slate-400 sm:inline">{catLabel}</span>
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        </div>
 
         {/* ── Content ───────────────────────────────────── */}
         {recent.length === 0 ? (
@@ -337,7 +458,7 @@ export default async function HomePage({ params }: Props) {
 
             {/* ── Article grid ── */}
             <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {gridArticles.slice(0, 12).map((a) => {
+              {gridArticles.filter((a) => !newestSlugs.has(a.slug)).slice(0, 6).map((a) => {
                 const { title, description, catLabel } = getArticleText(a);
                 const imgSrcRaw = getThumbnail(a, locale);
                 const imgSrc = imgSrcRaw ? resizeAmazonImageUrl(imgSrcRaw) : null;
@@ -430,71 +551,119 @@ export default async function HomePage({ params }: Props) {
           </div>
         )}
 
-        {/* ── Ways to browse ────────────────────────────── */}
-        <section className="mt-16 border-t border-slate-100 pt-12">
-          <h2 className="mb-6 text-xl font-black text-slate-900">{tt("home.moreWays", "More ways to browse")}</h2>
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {/* By Purpose */}
-            <Link href="/purpose" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-brand-100 bg-brand-50 p-5 transition-all hover:border-brand-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>🎯</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-brand-700 transition-colors">{tt("home.purposeTitle", "Browse by purpose")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.purposeDesc", "Gifting · Workout · Skincare · Home office · Cooking · Sleep and more")}</p>
-              </div>
-            </Link>
-            {/* Compare */}
-            <Link href="/compare" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-indigo-100 bg-indigo-50 p-5 transition-all hover:border-indigo-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>⚖️</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-indigo-700 transition-colors">{tt("home.compareTitle", "Head-to-head comparisons")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">
-                  {tt("home.compareMore", `${COMPARISONS.slice(0, 2).map((c) => tt(`comparePages.${c.slug}.title`, c.title)).join(" · ")} and ${COMPARISONS.length - 2} more`, { list: COMPARISONS.slice(0, 2).map((c) => tt(`comparePages.${c.slug}.title`, c.title)).join(" · "), count: COMPARISONS.length - 2 })}
-                </p>
-              </div>
-            </Link>
-            {/* Gift guides */}
-            <Link href="/gifts" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-pink-100 bg-pink-50 p-5 transition-all hover:border-pink-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>🎁</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-pink-700 transition-colors">{tt("home.giftsTitle", "Gift guides")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.giftsDesc", "For every occasion — birthday, anniversary, holiday, and more")}</p>
-              </div>
-            </Link>
-            {/* Tags */}
-            <Link href="/tags" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-teal-100 bg-teal-50 p-5 transition-all hover:border-teal-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>🏷️</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-teal-700 transition-colors">{tt("home.tagsTitle", "Browse by tag")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">
-                  {tt("home.tagsMore", `${TAGS.slice(0, 4).map((x) => tt(`tagPages.${x.slug}.label`, x.label)).join(" · ")} and more`, { list: TAGS.slice(0, 4).map((x) => tt(`tagPages.${x.slug}.label`, x.label)).join(" · ") })}
-                </p>
-              </div>
-            </Link>
-            {/* Budget */}
-            <Link href="/under/100" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-green-100 bg-green-50 p-5 transition-all hover:border-green-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>💰</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-green-700 transition-colors">{tt("home.budgetTitle", "Best under $100")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.budgetDesc", "Max value, minimal spend — also available: under $50, $200, $500")}</p>
-              </div>
-            </Link>
-            {/* Best of 2026 */}
-            <Link href="/best-2026" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-amber-100 bg-amber-50 p-5 transition-all hover:border-amber-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>✨</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-amber-700 transition-colors">{tt("home.bestofTitle", "Best of 2026")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.bestofDesc", "Our top picks for the year, organized by category")}</p>
-              </div>
-            </Link>
-            {/* Popular */}
-            <Link href="/popular" data-related="home-hub" className="group flex items-start gap-4 rounded-2xl border border-purple-100 bg-purple-50 p-5 transition-all hover:border-purple-300 hover:shadow-md">
-              <span className="shrink-0 text-2xl" aria-hidden>🏆</span>
-              <div>
-                <p className="mb-1 font-black text-slate-900 group-hover:text-purple-700 transition-colors">{tt("home.popularTitle", "Most popular")}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{tt("home.popularDesc", "The reviews readers keep coming back to")}</p>
-              </div>
-            </Link>
-          </div>
+        {/* ── こだわり検索(価格.com 型: カードでなくリンク直置き) ───────── */}
+        <section className="mt-12 rounded-2xl border border-slate-200 bg-white p-5">
+          <h2 className="mb-4 text-base font-black text-slate-900">{tt("home.moreWays", "More ways to browse")}</h2>
+          <dl className="space-y-3">
+            {/* 価格帯 — 4段階すべてを出す(従来は /under/100 の1本だけだった) */}
+            <div className="flex flex-col gap-1.5 border-b border-slate-100 pb-3 sm:flex-row sm:gap-4">
+              <dt className="w-32 shrink-0 text-[13px] font-bold text-slate-500">
+                💰 {tt("home.budgetTitle", "Best under $100")}
+              </dt>
+              <dd className="flex flex-wrap gap-x-3 gap-y-1.5">
+                {VALID_BUDGETS.map((b) => (
+                  <Link
+                    key={b}
+                    href={`/under/${b}`}
+                    data-related="home-facet-budget"
+                    className="text-[13px] text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                  >
+                    {locale === "ja"
+                      ? `${budgetAmountLabel(b, locale)}円以下`
+                      : `< $${budgetAmountLabel(b, locale)}`}
+                  </Link>
+                ))}
+              </dd>
+            </div>
+
+            {/* 用途 */}
+            <div className="flex flex-col gap-1.5 border-b border-slate-100 pb-3 sm:flex-row sm:gap-4">
+              <dt className="w-32 shrink-0 text-[13px] font-bold text-slate-500">
+                🎯 {tt("home.purposeTitle", "Browse by purpose")}
+              </dt>
+              <dd className="flex flex-wrap gap-x-3 gap-y-1.5">
+                {USE_CASES.slice(0, 8).map((u) => (
+                  <Link
+                    key={u.slug}
+                    href={`/for/${u.slug}`}
+                    data-related="home-facet-purpose"
+                    className="text-[13px] text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                  >
+                    {stripYear(tt(`usecasePages.${u.slug}.title`, u.title))}
+                  </Link>
+                ))}
+                <Link href="/purpose" data-related="home-facet-more" className="text-[13px] font-semibold text-brand-600 hover:text-brand-700">
+                  {tt("pages.viewAll", "View all →")}
+                </Link>
+              </dd>
+            </div>
+
+            {/* 比較 */}
+            <div className="flex flex-col gap-1.5 border-b border-slate-100 pb-3 sm:flex-row sm:gap-4">
+              <dt className="w-32 shrink-0 text-[13px] font-bold text-slate-500">
+                ⚖️ {tt("home.compareTitle", "Head-to-head comparisons")}
+              </dt>
+              <dd className="flex flex-wrap gap-x-3 gap-y-1.5">
+                {COMPARISONS.slice(0, 6).map((c) => (
+                  <Link
+                    key={c.slug}
+                    href={`/compare/${c.slug}`}
+                    data-related="home-facet-compare"
+                    className="text-[13px] text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                  >
+                    {stripYear(tt(`comparePages.${c.slug}.title`, c.title))}
+                  </Link>
+                ))}
+                <Link href="/compare" data-related="home-facet-more" className="text-[13px] font-semibold text-brand-600 hover:text-brand-700">
+                  {tt("pages.viewAll", "View all →")}
+                </Link>
+              </dd>
+            </div>
+
+            {/* タグ */}
+            <div className="flex flex-col gap-1.5 border-b border-slate-100 pb-3 sm:flex-row sm:gap-4">
+              <dt className="w-32 shrink-0 text-[13px] font-bold text-slate-500">
+                🏷️ {tt("home.tagsTitle", "Browse by tag")}
+              </dt>
+              <dd className="flex flex-wrap gap-x-3 gap-y-1.5">
+                {TAGS.slice(0, 10).map((tg) => (
+                  <Link
+                    key={tg.slug}
+                    href={`/tag/${tg.slug}`}
+                    data-related="home-facet-tag"
+                    className="text-[13px] text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                  >
+                    {tt(`tagPages.${tg.slug}.label`, tg.label)}
+                  </Link>
+                ))}
+                <Link href="/tags" data-related="home-facet-more" className="text-[13px] font-semibold text-brand-600 hover:text-brand-700">
+                  {tt("pages.viewAll", "View all →")}
+                </Link>
+              </dd>
+            </div>
+
+            {/* 特集 */}
+            <div className="flex flex-col gap-1.5 sm:flex-row sm:gap-4">
+              <dt className="w-32 shrink-0 text-[13px] font-bold text-slate-500">
+                ✨ {tt("home.giftsTitle", "Gift guides")}
+              </dt>
+              <dd className="flex flex-wrap gap-x-3 gap-y-1.5">
+                {OCCASIONS.slice(0, 6).map((g) => (
+                  <Link
+                    key={g.slug}
+                    href={`/gifts/${g.slug}`}
+                    data-related="home-facet-gift"
+                    className="text-[13px] text-slate-600 underline-offset-2 hover:text-brand-700 hover:underline"
+                  >
+                    {stripYear(tt(`giftPages.${g.slug}.title`, g.title))}
+                  </Link>
+                ))}
+                <Link href="/best-2026" data-related="home-facet-more" className="text-[13px] font-semibold text-brand-600 hover:text-brand-700">
+                  {tt("home.bestofTitle", "Best of 2026")} →
+                </Link>
+              </dd>
+            </div>
+          </dl>
         </section>
 
         {/* ── Trust strip ───────────────────────────────── */}
@@ -509,6 +678,8 @@ export default async function HomePage({ params }: Props) {
               <p className="mt-0.5 text-xs font-medium text-slate-500 uppercase tracking-wide">{label}</p>
             </div>
           ))}
+        </div>
+          </main>
         </div>
       </div>
     </>
