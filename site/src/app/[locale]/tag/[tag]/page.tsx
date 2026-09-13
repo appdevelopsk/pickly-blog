@@ -16,8 +16,6 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
-import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
-import { articleGrade } from "@/lib/articles/grades";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 const CATEGORY_ICONS: Record<string,string> = { fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾" };
@@ -83,18 +81,6 @@ export default async function TagPage({ params }: Props) {
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
-  // 絞り込みはクライアント側。タグは複数カテゴリを跨ぐのでカテゴリ軸も出す。
-  const bySlug = new Map(articles.map((a) => [a.slug, a]));
-  const facetItems: FacetItem[] = articles.map((a) => {
-    const label = t(`category.${a.category}`);
-    return {
-      slug: a.slug,
-      category: a.category,
-      catLabel: label ? label : a.category,
-      grade: articleGrade(a.offerIds),
-    };
-  });
-
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
@@ -132,11 +118,8 @@ export default async function TagPage({ params }: Props) {
             <p className="font-semibold text-slate-700">{tt("pages.noTagArticles", "No articles found for this tag yet.")}</p>
           </div>
         ) : (
-          <ArticleFacets items={facetItems}>
-            {(visibleSlugs) => (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {visibleSlugs.map((slug) => {
-              const a = bySlug.get(slug)!;
+            {articles.map((a) => {
               const { title, description } = loadArticleCardMeta(a.slug, locale);
               const imgSrc = getThumbnail(a, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
@@ -169,8 +152,6 @@ export default async function TagPage({ params }: Props) {
               );
             })}
           </ul>
-            )}
-          </ArticleFacets>
         )}
       </div>
     </>

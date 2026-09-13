@@ -16,13 +16,6 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { seoDescription } from "@/lib/seo/meta-description";
-import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
-import { articleGrade } from "@/lib/articles/grades";
-
-/** 絞り込みUIを出す下限。これ未満だと選択肢より記事が少なく、操作の意味が無い。
- *  2026-09-13 実測(ja)では 17ブランド中 5本が下回る(nespresso 4 / lodge 6 /
- *  hario 8 / kitchenaid 9 / garmin 9)ので、ここは実在する分岐。 */
-const FACET_MIN_ARTICLES = 10;
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -86,20 +79,6 @@ export default async function BrandPage({ params }: Props) {
     .sort((a, b) => b.offerIds.length - a.offerIds.length);
 
   const brandOfferCount = brandOfferIds.size;
-
-  // 絞り込みはクライアント側。ブランドはカテゴリを跨ぐのでカテゴリ軸も出す。
-  // 並び(ブランド製品の掲載数降順)は既定 sort が安定ソートで保持する。
-  const bySlug = new Map(articles.map((a) => [a.slug, a]));
-  const facetItems: FacetItem[] = articles.map((a) => {
-    const label = t(`category.${a.category}`);
-    return {
-      slug: a.slug,
-      category: a.category,
-      catLabel: label ? label : a.category,
-      grade: articleGrade(a.offerIds),
-    };
-  });
-  const showFacets = articles.length >= FACET_MIN_ARTICLES;
 
   const listSchema = {
     "@context": "https://schema.org",
@@ -171,13 +150,8 @@ export default async function BrandPage({ params }: Props) {
             <p className="font-semibold text-slate-700">No {config.name} reviews available in this language yet.</p>
           </div>
         ) : (
-          (() => {
-          // 記事が少ないブランドでは絞り込みUIを出さない(FACET_MIN_ARTICLES)。
-          // 出す/出さないで中のカードは同一なので、描画は renderGrid に一本化する。
-          const renderGrid = (slugs: string[]) => (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {slugs.map((slug) => {
-              const a = bySlug.get(slug)!;
+            {articles.map((a) => {
               const { title, description } = loadArticleCardMeta(a.slug, locale);
               const imgSrc = getThumbnail(a, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
@@ -218,15 +192,6 @@ export default async function BrandPage({ params }: Props) {
               );
             })}
           </ul>
-          );
-          return showFacets ? (
-            <ArticleFacets items={facetItems}>
-              {(visibleSlugs) => renderGrid(visibleSlugs)}
-            </ArticleFacets>
-          ) : (
-            renderGrid(articles.map((a) => a.slug))
-          );
-          })()
         )}
       </div>
     </>
