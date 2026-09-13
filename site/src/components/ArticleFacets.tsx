@@ -2,7 +2,10 @@
 
 import { useState, useMemo, useEffect } from "react";
 import { useTranslations } from "next-intl";
+import { Link } from "@/lib/i18n/navigation";
 import { GRADE_ORDER, gradeBadgeClass, type Grade } from "@/lib/articles/grades";
+import { ArticleCardImage } from "@/components/ArticleCardImage";
+import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 
 /**
  * 一覧ページの絞り込み/並べ替え。
@@ -12,6 +15,13 @@ import { GRADE_ORDER, gradeBadgeClass, type Grade } from "@/lib/articles/grades"
  *   type は comparison 788/790 で実質単一値、価格は記事の 21.5% しか出ず、
  *   publishedAt は distinct 15 値しかないので「新着順」が成立しない。
  * 軸を足す前に必ず投入率を実測すること(rating を型宣言だけで「ある」と誤認した前科)。
+ *
+ * ★カードの描画はこの中で完結させる。呼び出し側から関数(children)を渡す設計は
+ *   output: export で成立しない — Server Component から Client Component へ関数は
+ *   渡せず、prerender が
+ *     "Functions cannot be passed directly to Client Components"
+ *   で落ちてビルドが通らなかった (2026-09-13)。表示に要る値はすべてサーバー側で
+ *   解決し、シリアライズ可能な配列だけを渡すこと(SearchUI と同じ作法)。
  */
 
 export interface FacetItem {
@@ -20,6 +30,18 @@ export interface FacetItem {
   catLabel: string;
   /** 掲載製品のうち最高評点。未評価は undefined で「評点あり」絞り込みから外れる。 */
   grade?: Grade;
+  // ── 以下はカード表示用。すべてサーバー側で解決済みの値を渡す ──
+  title: string;
+  description: string;
+  imgSrc: string | null;
+  /** 商品画像なら true(object-contain)、OG画像なら false(object-cover)。 */
+  isProductImg: boolean;
+  price: string | null;
+  /** slug 形式のものは呼び出し側で除外済みの前提。 */
+  badge: string | null;
+  typeLabel: string;
+  type: string;
+  offerCount: number;
 }
 
 type SortKey = "default" | "grade";
@@ -28,11 +50,16 @@ interface Props {
   items: FacetItem[];
   /** カテゴリ選択を出すか。カテゴリ別ページのように既に単一カテゴリなら false。 */
   showCategory?: boolean;
-  /** 描画は呼び出し側。絞り込み後の slug 順を受け取って並べ替える。 */
-  children: (visibleSlugs: string[]) => React.ReactNode;
+  /** カテゴリバッジにアイコンを出すか(タグ/ブランド等の横断ページ)。 */
+  showCategoryIcon?: boolean;
 }
 
-export function ArticleFacets({ items, showCategory = true, children }: Props) {
+const CATEGORY_ICONS: Record<string, string> = {
+  fitness: "🏋️", food: "🍳", tech: "💻", beauty: "✨", home: "🏠",
+  fashion: "👗", finance: "💰", travel: "✈️", parenting: "👶", pets: "🐾",
+};
+
+export function ArticleFacets({ items, showCategory = true, showCategoryIcon = true }: Props) {
   const t = useTranslations();
   // ★ t() は throw せず空文字を返す設定。try/catch は死にコードになるので使わない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
@@ -84,7 +111,7 @@ export function ArticleFacets({ items, showCategory = true, children }: Props) {
           (b.grade ? rank.get(b.grade)! : Number.MAX_SAFE_INTEGER),
       );
     }
-    return list.map((i) => i.slug);
+    return list;
   }, [items, category, grade, sort, showCategory]);
 
   const pill = (active: boolean) =>
@@ -161,7 +188,55 @@ export function ArticleFacets({ items, showCategory = true, children }: Props) {
         </p>
       </div>
 
-      {children(visible)}
+      <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {visible.map((item) => (
+          <li key={item.slug}>
+            <Link
+              href={`/articles/${item.slug}`}
+              className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
+            >
+              <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
+                {/* 画像フォールバックは各ページと同じ CategoryPlaceholder を使う。
+                    SearchUI は絵文字だが、あれは検索専用の見た目で一覧の作法ではない。 */}
+                <ArticleCardImage
+                  src={item.imgSrc}
+                  alt={item.title}
+                  className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${item.isProductImg ? "object-contain p-4" : "object-cover"}`}
+                >
+                  <CategoryPlaceholder category={item.category} title={item.title} />
+                </ArticleCardImage>
+                <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
+                  {showCategoryIcon ? `${CATEGORY_ICONS[item.category] ?? ""} ` : ""}{item.catLabel}
+                </span>
+                {item.price && (
+                  <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
+                    {item.price}
+                  </span>
+                )}
+              </div>
+              <div className="flex flex-1 flex-col p-4">
+                {item.badge && (
+                  <p className="mb-1 truncate text-[11px] font-semibold text-amber-600">🏆 {item.badge}</p>
+                )}
+                <h2 className="text-sm font-bold leading-snug text-slate-900 transition-colors group-hover:text-brand-700 line-clamp-2">
+                  {item.title}
+                </h2>
+                {item.description && (
+                  <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{item.description}</p>
+                )}
+                <div className="mt-3 flex items-center justify-between">
+                  <span className="text-[11px] text-slate-400">
+                    {tt(`home.type${item.type.charAt(0).toUpperCase()}${item.type.slice(1)}`, item.typeLabel)} · {tt("home.picks", `${item.offerCount} picks`, { count: item.offerCount })}
+                  </span>
+                  {/* 元の tag ページが直書きだったのでそのまま。ここで tt() に
+                      変えると結線ついでの文言変更になり、差分の切り分けが濁る。 */}
+                  <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">Read →</span>
+                </div>
+              </div>
+            </Link>
+          </li>
+        ))}
+      </ul>
     </>
   );
 }
