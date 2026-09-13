@@ -15,6 +15,8 @@ import { localeAlternates } from "@/lib/i18n/alternates";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { resolvePrice } from "@/lib/affiliates/price";
 import { seoDescription } from "@/lib/seo/meta-description";
+import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
+import { articleGrade } from "@/lib/articles/grades";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -175,6 +177,16 @@ export default async function ArticlesPage({ params }: Props) {
   let pageTitle = "Articles";
   try { pageTitle = t("nav.articles"); } catch { /* missing */ }
 
+  // ★カテゴリ別 section の grouping はこのページの役割(カテゴリへの入口)なので残す。
+  //   よって facet はカテゴリ軸を出さず(showCategory={false})、評点と並べ替えだけ。
+  //   絞り込み結果は section ごとに intersect し、全滅した section は見出しごと隠す。
+  const facetItems: FacetItem[] = articles.map((a) => ({
+    slug: a.slug,
+    category: a.category,
+    catLabel: a.category,
+    grade: articleGrade(a.offerIds),
+  }));
+
   return (
     <div className="mx-auto max-w-6xl px-4 py-10">
       <div className="gap-8 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
@@ -188,9 +200,19 @@ export default async function ArticlesPage({ params }: Props) {
         </p>
       </div>
 
-      {/* Category jump links — text only, no emoji */}
+      {/* Category jump links / sections。
+          ★ジャンプリンクは facet の内側に置く。外に出すと絞り込み中でも
+            件数が全件のまま残り、下の section の件数と食い違う(2026-09-13)。 */}
+      <ArticleFacets items={facetItems} showCategory={false}>
+        {(visibleSlugs) => {
+          const visible = new Set(visibleSlugs);
+          const order = new Map(visibleSlugs.map((s, i) => [s, i]));
+          return (
+            <>
       <div className="flex flex-wrap gap-2 mb-10">
         {sortedCategories.map((cat) => {
+          const count = (byCategory[cat] ?? []).filter((a) => visible.has(a.slug)).length;
+          if (count === 0) return null;
           let label = cat;
           try { label = t(`category.${cat}`); } catch { /* missing */ }
           const color = getCategoryColor(cat);
@@ -201,15 +223,18 @@ export default async function ArticlesPage({ params }: Props) {
               className={`inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium transition-opacity hover:opacity-70 ${color}`}
             >
               {label}
-              <span className="ml-1.5 opacity-60 text-xs">({byCategory[cat]?.length ?? 0})</span>
+              <span className="ml-1.5 opacity-60 text-xs">({count})</span>
             </a>
           );
         })}
       </div>
 
-      {/* Category sections */}
       {sortedCategories.map((category) => {
-        const items = byCategory[category] ?? [];
+        const items = (byCategory[category] ?? [])
+          .filter((a) => visible.has(a.slug))
+          .sort((a, b) => order.get(a.slug)! - order.get(b.slug)!);
+        // 絞り込みで全滅した section は見出しごと隠す(空の見出しを残さない)。
+        if (items.length === 0) return null;
         let catLabel = category;
         try { catLabel = t(`category.${category}`); } catch { /* missing */ }
 
@@ -241,6 +266,10 @@ export default async function ArticlesPage({ params }: Props) {
           </section>
         );
       })}
+            </>
+          );
+        }}
+      </ArticleFacets>
         </main>
       </div>
     </div>
