@@ -4,8 +4,11 @@ import { Link } from "@/lib/i18n/navigation";
 import { CategorySidebar } from "@/components/layout/CategorySidebar";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
-import { CATALOG } from "@/lib/affiliates/catalog";
+import { CATALOG, pickLink } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { getGradeEntry, gradeBadgeClass, GRADE_ORDER } from "@/lib/articles/grades";
+import { inferMarketFromLocale } from "@/lib/i18n/locales";
+import { resolvePrice } from "@/lib/affiliates/price";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
@@ -56,6 +59,41 @@ export default async function RankingPage({ params }: Props) {
   };
 
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
+
+  // ── 製品単位のランキング ──────────────────────────────────────────────
+  // 従来この画面は「記事」を掲載製品数で並べていただけで、製品そのものの
+  // 順位は無かった(価格.com は製品が行になる)。grade は記事ごとの products[] に
+  // しか無いので、offerId で引ける grade-cache.json を作って突き合わせる。
+  // CATALOG の rating は宣言だけで投入0件なので使えない(2026-09-13)。
+  //
+  // ★番号付きの順位にはしない。grade は7段階しか無く A+ だけで544製品が同点で、
+  //   同点内を並べる材料が無いため(掲載本数は2,864件中2,819件が1本で並ぶ、
+  //   価格は40.8%にしか無く手入力、badge は装飾)。番号を振ると根拠のない精度を
+  //   主張することになり、id 順だと上位が「a で始まる製品」に偏る。
+  //   そこで評点ごとの段にして、データが言えること(この製品はA+である)だけを出す。
+  //   段内の並びは localeCompare で固定するが、これはビルドの再現性のためであって
+  //   優劣ではない(2026-09-13 ken 決定)。
+  const market = inferMarketFromLocale(locale);
+  const seen = new Set<string>();
+  const gradedOffers = CATALOG.filter((o) => {
+    // 同じ id が category 違いで複数行あるため、先に出た方だけ採る。
+    if (seen.has(o.id)) return false;
+    if (!getGradeEntry(o.id)) return false;
+    // 読者が辿れないリンクの製品は載せない(記事生成の判定と同じ基準)。
+    if (pickLink(o, market, { onlyApproved: true }) === null) return false;
+    seen.add(o.id);
+    return true;
+  });
+
+  // 段ごとの表示上限。全2,864製品を17ロケールぶん配ると HTML が膨らむだけなので、
+  // 各段の先頭だけ出して続きはカテゴリ一覧へ送る。
+  const PER_TIER = 8;
+  const gradeTiers = GRADE_ORDER.map((grade) => {
+    const items = gradedOffers
+      .filter((o) => getGradeEntry(o.id)!.grade === grade)
+      .sort((a, b) => a.id.localeCompare(b.id));
+    return { grade, items: items.slice(0, PER_TIER), total: items.length };
+  }).filter((tier) => tier.items.length > 0);
 
   // Group by category, sort each group by offerIds.length desc
   const byCategory: Record<string, ArticleMeta[]> = {};
@@ -121,6 +159,67 @@ export default async function RankingPage({ params }: Props) {
             {tt("pages.rankingDesc", `Top picks ranked by depth of comparison — ${allArticles.length} reviews across ${CATEGORY_ORDER.filter(c => byCategory[c]?.length).length} categories.`, { reviews: allArticles.length, categories: CATEGORY_ORDER.filter(c => byCategory[c]?.length).length })}
           </p>
         </section>
+
+        {/* 製品を評点ごとの段で出す。番号は振らない(同点が多く根拠が無いため) */}
+        {gradeTiers.length > 0 && (
+          <section className="mb-14">
+            <div className="mb-5 flex items-baseline justify-between border-b border-slate-200 pb-3">
+              <h2 className="text-xl font-black text-slate-900">
+                {tt("pages.productRankTitle", "Products by grade")}
+              </h2>
+              <span className="text-xs text-slate-400">
+                {tt("pages.productRankLead", `${gradedOffers.length} products we graded, grouped by grade.`, { count: gradedOffers.length })}
+              </span>
+            </div>
+
+            <div className="space-y-6">
+              {gradeTiers.map((tier) => (
+                <div key={tier.grade}>
+                  <div className="mb-2 flex items-center gap-2">
+                    <span className={`rounded px-2 py-0.5 text-xs font-black ${gradeBadgeClass(tier.grade)}`}>
+                      {tier.grade}
+                    </span>
+                    <span className="text-xs font-semibold text-slate-400">{tier.total}</span>
+                  </div>
+                  <ul className="divide-y divide-slate-100 rounded-2xl border border-slate-200 bg-white">
+                    {tier.items.map((offer) => {
+                      const entry = getGradeEntry(offer.id)!;
+                      const name = offer.name[locale as keyof typeof offer.name] ?? offer.name.en ?? offer.id;
+                      const img = getOfferImageUrl(offer);
+                      const price = resolvePrice(offer, locale);
+                      const { title: srcTitle } = loadArticleCardMeta(entry.slug, locale);
+                      return (
+                        <li key={offer.id}>
+                          <Link
+                            href={`/articles/${entry.slug}`}
+                            className="group flex items-center gap-4 px-4 py-3 transition-colors hover:bg-brand-50"
+                          >
+                            <div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-xl bg-slate-100">
+                              <ArticleCardImage src={img} alt={name} className="h-full w-full object-contain p-1">
+                                <CategoryPlaceholder category={offer.category} />
+                              </ArticleCardImage>
+                            </div>
+                            <div className="flex-1 min-w-0">
+                              <p className="text-sm font-bold text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-1">
+                                {name}
+                              </p>
+                              <p className="mt-0.5 text-[10px] text-slate-400 line-clamp-1">
+                                {tt("pages.gradedIn", `Graded in: ${srcTitle}`, { article: srcTitle })}
+                              </p>
+                            </div>
+                            {price && (
+                              <span className="shrink-0 text-xs font-bold text-slate-800">{price}</span>
+                            )}
+                          </Link>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Per-category sections */}
         <div className="space-y-12">

@@ -25,6 +25,7 @@
     "indexnow": "tsx scripts/indexnow-submit.ts",
     "bing:submit": "tsx scripts/bing-submit.ts",
     "audit:hardcoded": "node scripts/check-hardcoded-ui.mjs",
+    "grade:cache": "tsx scripts/generate-grade-cache.ts",
     "prebuild": "tsx scripts/generate-products-data.ts && tsx scripts/generate-sitemap.ts && node scripts/check-hardcoded-ui.mjs && node scripts/check-root-routing.mjs",
     "check:routing": "node scripts/check-root-routing.mjs",
     "report:countries": "node scripts/ga4-country-report.mjs",
