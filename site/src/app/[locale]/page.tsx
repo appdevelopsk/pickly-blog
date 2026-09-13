@@ -10,7 +10,6 @@ import { getOfferImageUrl, resizeAmazonImageUrl } from "@/lib/affiliates/images"
 import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
-import BrandVideo from "@/components/BrandVideo";
 import { COMPARISONS } from "@/lib/pages/compare-config";
 import { USE_CASES } from "@/lib/pages/usecase-config";
 import { OCCASIONS } from "@/lib/pages/gift-config";
@@ -215,8 +214,10 @@ export default async function HomePage({ params }: Props) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }} />
 
-      {/* ── Brand video (17ロケール・フルブリード自動再生) ── */}
-      <BrandVideo locale={locale} />
+      {/* ── Brand video は 2026-09-13 に撤去(ken 判断)。価格.com 型の
+          ディレクトリを最初の画面に出すため、ファーストビューを塞ぐ
+          フルブリード動画を外した。コンポーネント自体
+          (components/BrandVideo.tsx)と public の mp4 は戻せるよう残してある。 ── */}
 
       <div className="mx-auto max-w-6xl px-4 pb-20">
         <div className="gap-8 pt-6 md:pt-8 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">

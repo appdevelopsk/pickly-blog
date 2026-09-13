@@ -92,8 +92,14 @@ export function CategorySidebar({ active, counts }: Props) {
                 {/* サブカテゴリ(価格.com 型の中間層)。pets/parenting/finance の3カテゴリ
                     だけが子を持つ。残りは子が無いので何も出ない。lg 未満は横スクロールの
                     帯になっており、そこに入れ子を出すと帯が二段になって本文が押し下がる
-                    ため lg 以上のみ。 */}
-                {(SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]?.length ?? 0) > 0 && (
+                    ため lg 以上のみ。
+
+                    ★開いているカテゴリ(active)の下だけ展開する(2026-09-13, ken 指示)。
+                    価格.com と同じく、選ばれていないカテゴリの子は畳む。active を渡すのは
+                    category/[category] だけなので、TOP・ranking・articles・popular・new
+                    では子が一切出ない。 */}
+                {isActive &&
+                 (SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]?.length ?? 0) > 0 && (
                   <ul className="ml-4 hidden border-l border-slate-200 pl-2 lg:block">
                     {SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]!.map((sub) => (
                       <li key={sub.slug}>
