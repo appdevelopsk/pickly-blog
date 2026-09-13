@@ -16,6 +16,8 @@ import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
+import { articleGrade } from "@/lib/articles/grades";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
@@ -80,6 +82,20 @@ export default async function UseCasePage({ params }: Props) {
     .sort((a, b) => scoreArticle(b, keywords) - scoreArticle(a, keywords))
     .slice(0, 30);
 
+  // 絞り込みはクライアント側。ユースケースは複数カテゴリを跨ぐのでカテゴリ軸も出す。
+  // 並び(keyword スコア降順)はこのページの主題なので、既定の sort では崩さない
+  // ＝ ArticleFacets の "default" は元順序を保つ安定ソート。
+  const bySlug = new Map(articles.map((a) => [a.slug, a]));
+  const facetItems: FacetItem[] = articles.map((a) => {
+    const label = t(`category.${a.category}`);
+    return {
+      slug: a.slug,
+      category: a.category,
+      catLabel: label ? label : a.category,
+      grade: articleGrade(a.offerIds),
+    };
+  });
+
   const listSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -143,8 +159,11 @@ export default async function UseCasePage({ params }: Props) {
             <p className="font-semibold text-slate-700">{tt("pages.noUsecaseArticles", "No articles found for this use case yet.")}</p>
           </div>
         ) : (
+          <ArticleFacets items={facetItems}>
+            {(visibleSlugs) => (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {articles.map((a) => {
+            {visibleSlugs.map((slug) => {
+              const a = bySlug.get(slug)!;
               const { title, description } = loadArticleCardMeta(a.slug, locale);
               const imgSrc = getThumbnail(a, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
@@ -183,6 +202,8 @@ export default async function UseCasePage({ params }: Props) {
               );
             })}
           </ul>
+            )}
+          </ArticleFacets>
         )}
       </div>
     </>
