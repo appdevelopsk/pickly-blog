@@ -122,6 +122,8 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-linen-sheets-2026", "best-mattress-2026", "best-mattress-for-back-pain-2026",
       "best-mattress-protector-2026", "best-mattress-topper-2026", "best-memory-foam-pillow-2026",
       "best-sleep-mask-2026", "best-throw-blanket-2026", "best-weighted-blanket-2026",
+      "best-blackout-curtains-2026",
+      "best-travel-pillow-2026",
     ],
   },
   {
@@ -134,6 +136,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-runner-rug-2026", "best-sofa-2026", "best-storage-ottoman-2026",
       "best-table-lamp-2026", "best-tv-stand-2026",
       "best-standing-desk-2026", "best-desk-lamp-2026",
+      "best-soundbar-2026",
     ],
   },
   {
@@ -152,6 +155,9 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-dehumidifier-2026", "best-electric-fireplace-2026", "best-evaporative-cooler-2026",
       "best-humidifier-2026", "best-portable-air-conditioner-2026", "best-portable-fan-2026",
       "best-space-heater-2026", "best-tower-fan-2026", "best-window-air-conditioner-2026",
+      "best-aroma-diffuser-2026",
+      "best-candle-2026",
+      "best-smart-thermostat-2026",
     ],
   },
   {
@@ -160,6 +166,10 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-bathroom-organizer-2026", "best-closet-organizer-2026", "best-desk-organizer-2026",
       "best-drawer-organizer-2026", "best-shoe-rack-2026", "best-under-sink-organizer-2026",
       "best-wine-rack-2026",
+      "best-reusable-water-bottle-2026",
+      "best-smart-lock-2026",
+      "best-video-doorbell-2026",
+      "best-water-filter-pitcher-2026",
     ],
   },
   {
@@ -194,6 +204,8 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-pull-up-bar-doorframe-2026", "best-pull-up-bar-freestanding-2026", "best-push-up-board-2026",
       "best-sandbag-training-2026", "best-squat-rack-2026", "best-suspension-trainer-2026",
       "best-trap-bar-2026", "best-weight-bench-2026", "best-weight-plates-2026",
+      "best-home-gym-flooring-2026",
+      "best-home-gym-under-500-2026",
     ],
   },
   {
@@ -226,6 +238,9 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-posture-corrector-2026", "best-sports-bra-2026", "best-volleyball-knee-pads-2026",
       "best-waist-trainer-2026", "best-weight-vest-2026", "best-weightlifting-belt-2026",
       "best-workout-gloves-2026", "best-wrist-wraps-for-lifting-2026",
+      "best-gym-bag-2026",
+      "best-protein-shaker-2026",
+      "best-running-belt-2026",
     ],
   },
   {
@@ -248,6 +263,8 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-snorkeling-mask-2026", "best-speed-bag-2026", "best-speed-rope-2026",
       "best-swim-cap-2026", "best-swim-fins-2026", "best-swim-goggles-2026",
       "best-tennis-racket-2026", "best-trampoline-2026",
+      "best-insulated-water-bottle-2026",
+      "best-water-bottle-2026",
     ],
   },
 
@@ -340,6 +357,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-moisturizer-for-dry-skin-2026", "best-niacinamide-serum-2026", "best-pimple-patches-2026",
       "best-retinol-serum-2026", "best-sheet-mask-2026", "best-sunscreen-2026",
       "best-toner-2026", "best-vitamin-c-serum-2026",
+      "best-skin-care-routine-2026",
     ],
   },
   {
@@ -363,6 +381,8 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-ipl-hair-removal-2026", "best-jade-roller-2026", "best-led-face-mask-2026",
       "best-skincare-fridge-2026", "best-beard-trimmer-2026", "best-electric-shaver-2026",
       "best-electric-toothbrush-2026", "best-water-flosser-2026",
+      "best-perfume-for-men-2026",
+      "best-perfume-for-women-2026",
     ],
   },
 
@@ -404,6 +424,9 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-mens-dress-shirt-2026", "best-merino-wool-tshirt-2026", "best-sweatshirt-2026",
       "best-knit-cardigan-2026", "best-mens-suit-2026", "best-cocktail-dress-2026",
       "best-maxi-dress-2026", "best-summer-dress-2026", "best-wrap-dress-2026",
+      "best-bikini-2026",
+      "best-one-piece-swimsuit-2026",
+      "best-silk-pajamas-2026",
     ],
   },
   {
@@ -488,6 +511,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-travel-toothbrush-2026", "best-travel-first-aid-kit-2026", "best-travel-laundry-detergent-2026",
       "best-travel-clothesline-2026", "best-travel-iron-2026", "best-travel-coffee-maker-2026",
       "best-travel-yoga-mat-2026", "best-backpacking-water-filter-2026", "best-waterproof-dry-bag-2026",
+      "best-camping-tent-2026",
     ],
   },
 
@@ -502,6 +526,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-dog-puzzle-toy-2026", "best-dog-raincoat-2026", "best-dog-ramp-2026",
       "best-dog-toys-2026", "best-dog-training-collar-2026", "best-pet-stairs-2026",
       "best-dog-bed-2026", "best-dog-harness-2026",
+      "best-pet-carrier-2026",
     ],
   },
   {
@@ -531,6 +556,8 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-dog-grooming-table-2026", "best-pet-grooming-clipper-2026", "best-pet-first-aid-kit-2026",
       "best-pet-stain-remover-2026",
       "best-pet-camera-2026",
+      "best-pet-id-tag-2026",
+      "best-pet-vacuum-2026",
     ],
   },
   {
@@ -553,6 +580,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-pet-insurance-2026", "best-renters-insurance-2026", "best-term-life-insurance-2026",
       "best-umbrella-insurance-2026", "best-vision-insurance-2026", "best-travel-insurance-2026",
       "best-travel-insurance-senior-2026",
+      "best-identity-theft-protection-2026",
     ],
   },
   {
@@ -622,6 +650,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-baby-swaddle-2026", "best-baby-sound-machine-2026", "best-baby-monitor-camera-2026",
       "best-baby-humidifier-2026", "best-toddler-bed-2026", "best-diaper-pail-2026",
       "best-baby-monitor-2026",
+      "best-baby-gate-2026",
     ],
   },
   {
@@ -630,6 +659,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-baby-bathtub-2026", "best-baby-bath-toys-2026", "best-baby-wipes-2026",
       "best-baby-nail-clipper-2026", "best-baby-thermometer-2026", "best-baby-laundry-detergent-2026",
       "best-kids-toothbrush-2026", "best-kids-sunscreen-2026",
+      "best-toddler-potty-2026",
     ],
   },
   {
@@ -646,6 +676,7 @@ export const SUBCATEGORIES: SubcategoryConfig[] = [
       "best-kids-backpack-2026", "best-kids-bike-helmet-2026", "best-kids-headphones-2026",
       "best-kids-lunch-box-2026", "best-kids-scooter-2026", "best-kids-tablet-2026",
       "best-kids-water-bottle-2026", "best-toddler-shoes-2026",
+      "best-toddler-table-and-chairs-2026",
     ],
   },
 ];
