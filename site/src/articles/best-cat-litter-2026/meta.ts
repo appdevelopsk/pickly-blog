@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-cat-litter-2026",
   type: "comparison",
-  category: "home",
+  category: "pets",
   offerIds: [
     "cat-litter-dr-elsey-precious-cat",
     "cat-litter-worlds-best-multiple-cat",

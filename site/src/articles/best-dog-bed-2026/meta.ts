@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-dog-bed-2026",
   type: "comparison",
-  category: "home",
+  category: "pets",
   offerIds: [
     "dog-bed-furhaven-orthopedic",
     "dog-bed-casper-dog-bed",

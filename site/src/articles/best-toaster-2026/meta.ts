@@ -2,7 +2,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-toaster-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "balmuda-the-toaster-k11a",
     "aladdin-aet-gs13c",

@@ -2,7 +2,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-sunglasses-2026",
   type: "comparison",
-  category: "beauty",
+  category: "fashion",
   offerIds: [
     "rayban-wayfarer-classic",
     "oakley-holbrook",

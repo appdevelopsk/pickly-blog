@@ -2,7 +2,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-tea-kettle-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "balmuda-the-pot",
     "hario-v60-buono-kettle",

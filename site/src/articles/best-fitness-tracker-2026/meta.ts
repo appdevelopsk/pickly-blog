@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-fitness-tracker-2026",
   type: "comparison",
-  category: "fitness",
+  category: "tech",
   offerIds: [
     "fitbit-charge-6",
     "xiaomi-smart-band-9",

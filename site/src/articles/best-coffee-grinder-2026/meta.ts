@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-coffee-grinder-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "timemore-c2",
     "hario-v60-ceramic-slim",

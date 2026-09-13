@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-travel-rain-jacket-2026",
   type: "comparison",
-  category: "travel",
+  category: "fashion",
   offerIds: [
     "arcteryx-beta-lt",
     "patagonia-torrentshell-3l",

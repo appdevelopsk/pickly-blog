@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-backpack-2026",
   type: "comparison",
-  category: "tech",
+  category: "fashion",
   offerIds: [
     "peak-design-everyday-backpack-20l",
     "tomtoc-a61-laptop-backpack",

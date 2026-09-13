@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-knife-sharpener-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "knife-sharpener-work-sharp-ken-onion",
     "knife-sharpener-chef-s-choice-trizor",

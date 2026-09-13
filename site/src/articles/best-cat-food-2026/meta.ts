@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-cat-food-2026",
   type: "comparison",
-  category: "home",
+  category: "pets",
   offerIds: [
     "cat-food-royal-canin-indoor",
     "cat-food-hills-science-diet-adult",

@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-aroma-diffuser-2026",
   type: "comparison",
-  category: "beauty",
+  category: "home",
   offerIds: [
     "muji-aroma-diffuser-mj-adl2",
     "vitruvi-stone-diffuser",

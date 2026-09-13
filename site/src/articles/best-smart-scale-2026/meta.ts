@@ -4,7 +4,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-smart-scale-2026",
   type: "comparison",
-  category: "fitness",
+  category: "tech",
   offerIds: [
     "withings-body-comp",
     "garmin-index-s2",

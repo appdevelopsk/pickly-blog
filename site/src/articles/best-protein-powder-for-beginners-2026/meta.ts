@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-protein-powder-for-beginners-2026",
   type: "comparison",
-  category: "fitness",
+  category: "food",
   offerIds: [
     "optimum-nutrition-gold-standard-whey",
     "myprotein-impact-whey",

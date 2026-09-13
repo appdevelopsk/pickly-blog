@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-pre-workout-supplement-2026",
   type: "comparison",
-  category: "fitness",
+  category: "food",
   offerIds: [
     "transparent-labs-bulk-pre-workout",
     "legion-pulse-pre-workout",

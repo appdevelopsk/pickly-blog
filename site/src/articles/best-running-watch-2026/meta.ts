@@ -4,7 +4,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-running-watch-2026",
   type: "comparison",
-  category: "fitness",
+  category: "tech",
   offerIds: [
     "garmin-forerunner-265",
     "coros-pace-3",

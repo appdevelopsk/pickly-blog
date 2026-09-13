@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-cookware-set-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "cookware-set-all-clad-d3",
     "cookware-set-hexclad-hybrid",

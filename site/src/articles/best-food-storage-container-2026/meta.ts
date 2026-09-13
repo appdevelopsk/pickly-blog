@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-food-storage-container-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "food-storage-oxo-good-grips-pop",
     "food-storage-pyrex-simply-store",

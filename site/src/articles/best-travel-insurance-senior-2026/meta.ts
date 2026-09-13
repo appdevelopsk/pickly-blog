@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-travel-insurance-senior-2026",
   type: "comparison",
-  category: "travel",
+  category: "finance",
   offerIds: [
     "allianz-onetrip-prime",
     "travelguard-gold-plan",

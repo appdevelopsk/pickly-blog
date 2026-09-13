@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-rice-cooker-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "zojirushi-stan-nw-sa10",
     "tiger-jpi-y100",

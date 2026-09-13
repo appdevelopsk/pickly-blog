@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-pet-camera-2026",
   type: "comparison",
-  category: "home",
+  category: "pets",
   offerIds: [
     "furbo-360-dog-camera",
     "petcube-cam",

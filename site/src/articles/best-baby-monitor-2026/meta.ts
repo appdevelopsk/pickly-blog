@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-baby-monitor-2026",
   type: "comparison",
-  category: "home",
+  category: "parenting",
   offerIds: [
     "cubo-ai-plus",
     "eufy-spaceview-pro",

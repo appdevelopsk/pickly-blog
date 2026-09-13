@@ -4,7 +4,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-desk-lamp-2026",
   type: "comparison",
-  category: "tech",
+  category: "home",
   offerIds: [
     "benq-screenbar-halo",
     "elgato-key-light",

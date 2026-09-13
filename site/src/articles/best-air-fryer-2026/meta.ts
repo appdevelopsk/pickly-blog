@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-air-fryer-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "cosori-pro-ii-6-4l",
     "ninja-foodi-af400",

@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-bento-box-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "bento-box-monbento-original",
     "bento-box-lock-lock-3tier",

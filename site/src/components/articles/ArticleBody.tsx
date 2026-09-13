@@ -11,6 +11,7 @@ import { resolvePrice, resolvePriceWithAsOf } from "@/lib/affiliates/price";
 import { getPriceWatch } from "@/lib/affiliates/price-watch";
 import { StickyOfferCta } from "./StickyOfferCta";
 import { EvidenceBadge, deriveEvidenceLevel } from "./EvidenceBadge";
+import { CategorySidebar } from "@/components/layout/CategorySidebar";
 
 /**
  * 本文段落内の `[text](/articles/slug)` だけを内部リンクに変換する。
@@ -193,8 +194,11 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
     ? tocItems.map((i) => ({ id: i.id, label: i.label }))
     : sectionToc;
 
+  // 左サイドバー(200px)を足したぶん max-w-5xl(1024px) では本文が痩せるので
+  // max-w-7xl(1280px) へ広げる。左200 + gap40 + 右256 + gap40 を引いて
+  // 本文は約744px 残り、従来(1024 - 256 - 40 = 728px)より僅かに広い。
   return (
-    <div className="mx-auto max-w-5xl px-4 py-8">
+    <div className="mx-auto max-w-7xl px-4 py-8">
       {/* Breadcrumb */}
       <nav className="mb-6 flex items-center gap-1.5 text-xs text-slate-500">
         <Link href="/" className="hover:text-brand-600">Pickly</Link>
@@ -266,6 +270,16 @@ export function ArticleBody({ meta, content, offers, related = [], sidebarRelate
       </header>
 
       <div className="lg:flex lg:gap-10">
+        {/* ── 左サイドバー: カテゴリ + 開いているカテゴリの子(価格.com 型) ──
+            記事ページは従来「本文 + 右サイドバー」の2カラムで、サイト全体への
+            回遊導線が本文末尾にしか無かった。他6ページと同じ位置に同じ物を置く
+            (2026-09-14, ken 指示)。active に記事のカテゴリを渡すので、その
+            カテゴリの品目だけが展開される。lg 未満では横スクロールの帯になる
+            ので、本文より先に出ると読み始めが押し下がる。よって lg 以上限定。 */}
+        <div className="hidden lg:block lg:w-[200px] lg:shrink-0">
+          <CategorySidebar active={meta.category} />
+        </div>
+
         {/* Main content */}
         <div className="min-w-0 flex-1">
 

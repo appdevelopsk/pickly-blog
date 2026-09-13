@@ -2,7 +2,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-standing-desk-2026",
   type: "comparison",
-  category: "tech",
+  category: "home",
   offerIds: [
     "flexispot-e7-pro",
     "ikea-bekant-sit-stand",

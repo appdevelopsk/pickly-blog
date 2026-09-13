@@ -4,7 +4,7 @@ import { ALL_LOCALES } from "@/lib/i18n/locales";
 export const meta: ArticleMeta = {
   slug: "best-coffee-mug-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "coffee-mug-yeti-rambler-14oz",
     "coffee-mug-hydro-flask-12oz",

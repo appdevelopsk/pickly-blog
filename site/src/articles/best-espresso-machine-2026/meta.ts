@@ -2,7 +2,7 @@ import type { ArticleMeta } from "@/lib/articles/types";
 export const meta: ArticleMeta = {
   slug: "best-espresso-machine-2026",
   type: "comparison",
-  category: "home",
+  category: "food",
   offerIds: [
     "delonghi-dedica-ec685",
     "breville-barista-express-bes870",
