@@ -156,6 +156,19 @@ function resolveFile(path) {
 
 const strip = (p) => (p.replace(/\/$/, "") || "/");
 
+// <head> 部分だけを返す(見つからなければ全文)。
+function headOf(html) {
+  const end = html.indexOf("</head>");
+  return end >= 0 ? html.slice(0, end) : html;
+}
+
+// ★ V8 の罠 (2026-09-13 に CI が OOM で落ちた):
+//   regex の捕捉 (m[1]) や slice() は親文字列を共有する SlicedString で、親＝ページ HTML
+//   全体を GC から守ってしまう。それを canonicalOwners / fatal に溜めると 7,128 ページ ×
+//   数百 KB がヒープに居座り、ヘッダーのドロップダウンと記事サイドバーで HTML が
+//   太った途端に 4GB の既定ヒープを使い切った。保存前に必ず複製して親から切り離す。
+const own = (s) => Buffer.from(s, "utf8").toString("utf8");
+
 // ---- 検査本体 ----
 const fatal = { missing: [], noindexInSitemap: [], redirected: [], robotsBlocked: [], canonicalElsewhere: [] };
 const warn = { external: [], dupCanonical: [], notInSitemap: [] };
@@ -185,7 +198,8 @@ for (const loc of rawLocs) {
   const file = resolveFile(path);
   if (!file) { fatal.missing.push(path); continue; }
 
-  const html = readFileSync(file, "utf8");
+  // meta/canonical は <head> にしかない。本文まで regex で舐めない(ページが太るほど遅くなる)。
+  const html = headOf(readFileSync(file, "utf8"));
 
   // 4. sitemap に載せた URL が noindex
   const robotsMeta = html.match(/<meta[^>]+name=["']robots["'][^>]*content=["']([^"']*)["']/i);
@@ -197,7 +211,7 @@ for (const loc of rawLocs) {
   // 5. canonical が自分以外を指す ＝「代替ページ」としてインデックスされない
   const can = html.match(/<link[^>]+rel=["']canonical["'][^>]*href=["']([^"']+)["']/i);
   if (can) {
-    const href = can[1].replace(/&amp;/g, "&");
+    const href = own(can[1]).replace(/&amp;/g, "&");
     const canPath = href.startsWith(ORIGIN) ? href.slice(ORIGIN.length) || "/" : href;
     if (strip(canPath) !== strip(path)) {
       fatal.canonicalElsewhere.push(`${path} → ${canPath}`);
@@ -223,7 +237,7 @@ for (const [can, owners] of canonicalOwners) {
     const rel = "/" + p.slice(DIR.length + 1).replace(/index\.html$/, "").replace(/\/$/, "");
     const path = strip(rel);
     if (seenPaths.has(path)) continue;
-    const html = readFileSync(p, "utf8");
+    const html = headOf(readFileSync(p, "utf8"));
     if (/<meta[^>]+name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)) continue;
     warn.notInSitemap.push(path);
   }
