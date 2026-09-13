@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/lib/i18n/navigation";
+import { SUBCATEGORIES_BY_PARENT } from "@/lib/pages/subcategory-config";
 
 /**
  * 全ページ共通の左サイドバー(価格.com 型)。
@@ -87,6 +88,26 @@ export function CategorySidebar({ active, counts }: Props) {
                     <span className="ml-auto hidden text-xs text-slate-400 lg:inline">{count}</span>
                   )}
                 </Link>
+
+                {/* サブカテゴリ(価格.com 型の中間層)。pets/parenting/finance の3カテゴリ
+                    だけが子を持つ。残りは子が無いので何も出ない。lg 未満は横スクロールの
+                    帯になっており、そこに入れ子を出すと帯が二段になって本文が押し下がる
+                    ため lg 以上のみ。 */}
+                {(SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]?.length ?? 0) > 0 && (
+                  <ul className="ml-4 hidden border-l border-slate-200 pl-2 lg:block">
+                    {SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]!.map((sub) => (
+                      <li key={sub.slug}>
+                        <Link
+                          href={`/category/${category}?sub=${sub.slug}`}
+                          data-related="sidebar-subcategory"
+                          className="block rounded-lg px-2 py-1 text-[13px] text-slate-500 transition-colors hover:bg-slate-50 hover:text-brand-700"
+                        >
+                          {tt(`subcategory.${sub.slug}`, sub.label)}
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                )}
               </li>
             );
           })}
