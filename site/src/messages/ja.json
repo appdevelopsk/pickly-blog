@@ -702,5 +702,15 @@
     "moreTags": "タグをもっと見る →",
     "seeDeals": "セールを見る →"
   },
-  "compareTitleSuffix": "：どっちを選ぶ？"
+  "compareTitleSuffix": "：どっちを選ぶ？",
+  "facets": {
+    "category": "カテゴリー",
+    "grade": "評点",
+    "all": "すべて",
+    "sort": "並べ替え",
+    "sortDefault": "おすすめ順",
+    "sortGrade": "評点の高い順",
+    "reset": "リセット",
+    "count": "{total}件中 {shown}件を表示"
+  }
 }

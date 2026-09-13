@@ -668,5 +668,15 @@
     "moreTags": "更多标签 →",
     "seeDeals": "查看优惠 →"
   },
-  "compareTitleSuffix": "：该选哪个？"
+  "compareTitleSuffix": "：该选哪个？",
+  "facets": {
+    "category": "Category",
+    "grade": "Grade",
+    "all": "All",
+    "sort": "Sort",
+    "sortDefault": "Recommended",
+    "sortGrade": "Highest grade",
+    "reset": "Reset",
+    "count": "{shown} of {total} shown"
+  }
 }

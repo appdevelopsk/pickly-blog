@@ -668,5 +668,15 @@
     "moreTags": "Más etiquetas →",
     "seeDeals": "Ver ofertas →"
   },
-  "compareTitleSuffix": ": ¿cuál es mejor?"
+  "compareTitleSuffix": ": ¿cuál es mejor?",
+  "facets": {
+    "category": "Category",
+    "grade": "Grade",
+    "all": "All",
+    "sort": "Sort",
+    "sortDefault": "Recommended",
+    "sortGrade": "Highest grade",
+    "reset": "Reset",
+    "count": "{shown} of {total} shown"
+  }
 }

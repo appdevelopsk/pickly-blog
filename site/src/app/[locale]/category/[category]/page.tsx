@@ -17,6 +17,8 @@ import type { ArticleCategory } from "@/lib/articles/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { resolvePrice } from "@/lib/affiliates/price";
 import { seoDescription } from "@/lib/seo/meta-description";
+import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
+import { articleGrade } from "@/lib/articles/grades";
 
 // ── Constants ─────────────────────────────────────────────────────────────────
 
@@ -106,6 +108,16 @@ export default async function CategoryPage({ params }: Props) {
   const icon = CATEGORY_ICONS[category] ?? "📋";
   const desc = CATEGORY_DESCRIPTIONS[category] ?? `Best ${catLabel} products reviewed.`;
 
+  // 絞り込みはクライアント側。ここでは slug→記事 の引き当てと、
+  // 記事単位に集約した grade(=掲載製品の最高点)だけ渡す。
+  const bySlug = new Map(articles.map((a) => [a.slug, a]));
+  const facetItems: FacetItem[] = articles.map((a) => ({
+    slug: a.slug,
+    category: a.category,
+    catLabel,
+    grade: articleGrade(a.offerIds),
+  }));
+
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -186,8 +198,11 @@ export default async function CategoryPage({ params }: Props) {
             <p className="font-semibold">{tt("pages.noCatArticles", `Articles coming soon for ${catLabel}.`, { category: catLabel })}</p>
           </div>
         ) : (
+          <ArticleFacets items={facetItems} showCategory={false}>
+            {(visibleSlugs) => (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {articles.map((a) => {
+            {visibleSlugs.map((slug) => {
+              const a = bySlug.get(slug)!;
               const { title, description } = loadArticleCardMeta(a.slug, locale);
               const imgSrc = getThumbnail(a, locale);
               const isProductImg = imgSrc && !imgSrc.includes("/og/");
@@ -247,6 +262,8 @@ export default async function CategoryPage({ params }: Props) {
               );
             })}
           </ul>
+            )}
+          </ArticleFacets>
         )}
 
           </main>

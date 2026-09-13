@@ -668,5 +668,15 @@
     "moreTags": "المزيد من الوسوم →",
     "seeDeals": "عرض العروض →"
   },
-  "compareTitleSuffix": ": أيهما أفضل؟"
+  "compareTitleSuffix": ": أيهما أفضل؟",
+  "facets": {
+    "category": "Category",
+    "grade": "Grade",
+    "all": "All",
+    "sort": "Sort",
+    "sortDefault": "Recommended",
+    "sortGrade": "Highest grade",
+    "reset": "Reset",
+    "count": "{shown} of {total} shown"
+  }
 }

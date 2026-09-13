@@ -41,6 +41,25 @@ export function gradeRank(offerId: string): number {
 }
 
 /**
+ * 記事の評点 = 掲載製品のうち**最高点**。
+ * 記事は5本前後の製品を持ち、grade は製品(offerId)にしか無いので集約が要る。
+ * 最高点を採るのは索引生成側(generate-grade-cache.ts)が同一製品の重複を
+ * 「最高点を採った方の slug」で解決しているのと同じ向き。
+ * 1本も評点が無ければ undefined(= 絞り込みの対象外)。
+ */
+export function articleGrade(offerIds: readonly string[]): Grade | undefined {
+  let best: Grade | undefined;
+  let bestRank = Number.MAX_SAFE_INTEGER;
+  for (const id of offerIds) {
+    const g = CACHE[id]?.grade;
+    if (!g) continue;
+    const r = RANK.get(g) ?? Number.MAX_SAFE_INTEGER;
+    if (r < bestRank) { bestRank = r; best = g; }
+  }
+  return best;
+}
+
+/**
  * バッジの配色。ArticleBody の製品カードと同じ見え方に揃える
  * (A+ だけ金、A はブランド色、それ以外はグレー)。
  * 新しい色を足すと同じ評点が画面によって違う色になるので増やさない。
