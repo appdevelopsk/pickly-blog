@@ -108,6 +108,13 @@ export default async function ComparePage({ params }: Props) {
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
+  // 「Choose ○○ if…」に差し込む短縮名。記事タイトルは
+  // "製品名: 副題" や "製品名 – 副題" の形なので先頭だけを取る。
+  const shortName = (title: string): string =>
+    (title.split(":")[0] ?? title).split("–")[0]?.trim() ?? title;
+  const nameA = metaA ? shortName(metaA.title) : "";
+  const nameB = metaB ? shortName(metaB.title) : "";
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
@@ -117,14 +124,14 @@ export default async function ComparePage({ params }: Props) {
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
           <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
           <span>/</span>
-          <Link href="/compare" className="hover:text-slate-600 transition-colors">Compare</Link>
+          <Link href="/compare" className="hover:text-slate-600 transition-colors">{tt("pages.compareBreadcrumb", "Compare")}</Link>
           <span>/</span>
           <span className="text-slate-600 font-medium line-clamp-1">{config.title}</span>
         </nav>
 
         <section className="py-10 md:py-14">
           <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-indigo-50 border border-indigo-200 px-4 py-1.5 text-xs font-bold text-indigo-700">
-            ⚖️ Head-to-head
+            ⚖️ {tt("pages.headToHeadBadge", "Head-to-head")}
           </div>
           <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
             {tt(`comparePages.${pair}.title`, config.title)}
@@ -135,8 +142,8 @@ export default async function ComparePage({ params }: Props) {
         {/* Side-by-side hero */}
         <div className="mb-12 grid gap-4 md:grid-cols-2">
           {[
-            { art: artA, meta: metaA, offer: offerA, img: imgA, label: "Option A" },
-            { art: artB, meta: metaB, offer: offerB, img: imgB, label: "Option B" },
+            { art: artA, meta: metaA, offer: offerA, img: imgA, label: tt("pages.optionA", "Option A") },
+            { art: artB, meta: metaB, offer: offerB, img: imgB, label: tt("pages.optionB", "Option B") },
           ].map(({ art, meta, offer, img, label }) => {
             if (!art || !meta) return (
               <div key={label} className="flex items-center justify-center rounded-2xl border-2 border-dashed border-slate-200 bg-slate-50 p-10 text-center">
@@ -151,7 +158,7 @@ export default async function ComparePage({ params }: Props) {
                   <ArticleCardImage src={img} alt={meta.title} className={`h-full w-full transition-transform duration-500 group-hover:scale-105 ${isProductImg ? "object-contain p-6" : "object-cover"}`}>
                     <CategoryPlaceholder category={art.category} title={meta.title} />
                   </ArticleCardImage>
-                  {(offer && resolvePrice(offer, locale)) && <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">from {resolvePrice(offer, locale)}</span>}
+                  {(offer && resolvePrice(offer, locale)) && <span className="absolute bottom-3 right-3 rounded-full bg-white/95 border border-slate-200 px-3 py-1 text-xs font-bold text-slate-800 shadow-sm">{tt("pages.priceFromPrefix", `from ${resolvePrice(offer, locale)}`, { price: resolvePrice(offer, locale) as string })}</span>}
                 </div>
                 <div className="flex flex-1 flex-col p-5">
                   {offer?.badge && <p className="mb-1.5 text-xs font-semibold text-amber-600">🏆 {offer.badge}</p>}
@@ -159,7 +166,7 @@ export default async function ComparePage({ params }: Props) {
                   {meta.description && <p className="flex-1 text-sm text-slate-500 leading-relaxed line-clamp-3">{meta.description}</p>}
                   <div className="mt-4 flex items-center justify-between">
                     <span className="text-xs text-slate-400">{tt("pages.picksReviewed", `${art.offerIds.length} picks reviewed`, { count: art.offerIds.length })}</span>
-                    <span className="text-xs font-semibold text-brand-600 group-hover:underline">Full review →</span>
+                    <span className="text-xs font-semibold text-brand-600 group-hover:underline">{tt("pages.fullReview", "Full review →")}</span>
                   </div>
                 </div>
               </Link>
@@ -180,23 +187,27 @@ export default async function ComparePage({ params }: Props) {
           <div className="grid gap-4 md:grid-cols-2">
             {artA && metaA && (
               <div className="rounded-xl border border-indigo-200 bg-white p-4">
-                <p className="mb-2 text-xs font-bold text-indigo-600 uppercase tracking-wide">Choose {(metaA.title.split(":")[0] ?? metaA.title).split("–")[0]?.trim()} if…</p>
+                <p className="mb-2 text-xs font-bold text-indigo-600 uppercase tracking-wide">
+                  {tt("pages.chooseIf", `Choose ${nameA} if…`, { name: nameA })}
+                </p>
                 <p className="text-sm text-slate-600 leading-relaxed">
-                  You want the most comprehensive comparison with {artA.offerIds.length} options tested, covering the widest range of budgets and use cases.
+                  {tt("pages.chooseReasonA", `The most comprehensive comparison, with ${artA.offerIds.length} options tested across the widest range of budgets and use cases.`, { count: artA.offerIds.length })}
                 </p>
                 <Link href={`/articles/${artA.slug}`} className="mt-3 inline-flex items-center gap-1 text-xs font-semibold text-brand-600 hover:underline">
-                  Read full review →
+                  {tt("pages.readFullReview", "Read full review →")}
                 </Link>
               </div>
             )}
             {artB && metaB && (
               <div className="rounded-xl border border-indigo-200 bg-white p-4">
-                <p className="mb-2 text-xs font-bold text-indigo-600 uppercase tracking-wide">Choose {(metaB.title.split(":")[0] ?? metaB.title).split("–")[0]?.trim()} if…</p>
+                <p className="mb-2 text-xs font-bold text-indigo-600 uppercase tracking-wide">
+                  {tt("pages.chooseIf", `Choose ${nameB} if…`, { name: nameB })}
+                </p>
                 <p className="text-sm text-slate-600 leading-relaxed">
-                  You want a focused comparison with {artB.offerIds.length} options and need a specific type of product that best fits your lifestyle.
+                  {tt("pages.chooseReasonB", `A focused comparison of ${artB.offerIds.length} options, for readers who already know the type of product they need.`, { count: artB.offerIds.length })}
                 </p>
                 <Link href={`/articles/${artB.slug}`} className="mt-3 inline-flex items-center gap-1 text-xs font-semibold text-brand-600 hover:underline">
-                  Read full review →
+                  {tt("pages.readFullReview", "Read full review →")}
                 </Link>
               </div>
             )}
