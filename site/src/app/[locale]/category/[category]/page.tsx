@@ -11,6 +11,8 @@ import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
 import { ArticleCardImage } from "@/components/ArticleCardImage";
+import { SubcategoryFilter } from "@/components/SubcategoryFilter";
+import { SUBCATEGORIES_BY_PARENT, matchesSubcategory } from "@/lib/pages/subcategory-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import type { ArticleCategory } from "@/lib/articles/types";
@@ -106,6 +108,22 @@ export default async function CategoryPage({ params }: Props) {
   const icon = CATEGORY_ICONS[category] ?? "📋";
   const desc = CATEGORY_DESCRIPTIONS[category] ?? `Best ${catLabel} products reviewed.`;
 
+  // サブカテゴリ(子を持つのは pets/parenting/finance のみ)。子が無ければ
+  // subs は空配列で、絞り込み UI ごと出さない。
+  const subs = SUBCATEGORIES_BY_PARENT[category as ArticleCategory] ?? [];
+  const subLabels = Object.fromEntries(
+    subs.map((s) => [s.slug, tt(`subcategory.${s.slug}`, s.label)])
+  );
+  // ★{label} は ICU 引数なので、値を渡さずに t() を呼ぶと空文字が返り
+  //   フォールバックの英語が出る(17ロケール全部で英語になっていた)。
+  //   クライアント側で .replace() せず、ここで1件ずつ解決しておく。
+  const subFilteredLabels = Object.fromEntries(
+    subs.map((s) => {
+      const label = subLabels[s.slug]!;
+      return [s.slug, tt("pages.subFiltered", `Filtered: ${label}`, { label })];
+    })
+  );
+
   const itemListSchema = {
     "@context": "https://schema.org",
     "@type": "ItemList",
@@ -186,7 +204,18 @@ export default async function CategoryPage({ params }: Props) {
             <p className="font-semibold">{tt("pages.noCatArticles", `Articles coming soon for ${catLabel}.`, { category: catLabel })}</p>
           </div>
         ) : (
-          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <>
+          {subs.length > 0 && (
+            <SubcategoryFilter
+              listId="category-articles"
+              knownSlugs={subs.map((s) => s.slug)}
+              labels={subLabels}
+              allLabel={tt("pages.subAll", "Show all")}
+              filteredLabels={subFilteredLabels}
+              emptyLabel={tt("pages.subEmpty", "No articles in this subcategory yet.")}
+            />
+          )}
+          <ul id="category-articles" className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {articles.map((a) => {
               const { title, description } = loadArticleCardMeta(a.slug, locale);
               const imgSrc = getThumbnail(a, locale);
@@ -196,8 +225,10 @@ export default async function CategoryPage({ params }: Props) {
               const price = (offer && resolvePrice(offer, locale));
               const picksCount = a.offerIds.length;
               const typeLabel = TYPE_LABELS[a.type] ?? a.type;
+              // 絞り込みは DOM 属性で行う(カードを client へ渡さない)。
+              const matched = subs.filter((s) => matchesSubcategory(a.slug, s)).map((s) => s.slug);
               return (
-                <li key={a.slug}>
+                <li key={a.slug} data-sub={matched.length > 0 ? matched.join(" ") : undefined}>
                   <Link
                     href={`/articles/${a.slug}`}
                     className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg"
@@ -247,6 +278,7 @@ export default async function CategoryPage({ params }: Props) {
               );
             })}
           </ul>
+          </>
         )}
 
           </main>
