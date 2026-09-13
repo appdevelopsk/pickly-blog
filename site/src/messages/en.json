@@ -9,7 +9,11 @@
     "privacy": "Privacy",
     "terms": "Terms",
     "contact": "Contact",
-    "disclosure": "Affiliate disclosure"
+    "disclosure": "Affiliate disclosure",
+    "allCategories": "Browse categories",
+    "searchPlaceholder": "Search products and categories",
+    "menu": "Menu",
+    "close": "Close"
   },
   "home": {
     "heading": "Real reviews, no filler.",
@@ -312,7 +316,8 @@
     "under50": "Under $50",
     "under100": "Under $100",
     "brands": "Brands",
-    "search": "Search"
+    "search": "Search",
+    "features": "Featured collections"
   },
   "tagPages": {
     "wireless": {
@@ -673,7 +678,11 @@
     "underDesc": "Every top pick on this page costs under ${budget} in 2026. Compared by our editors across tech, home, fitness and more, with the trade-offs spelled out.",
     "underHeading": "Best products under ${budget}",
     "underLead": "{count} reviews where the top pick costs less than ${budget}. Sorted by price, lowest first.",
-    "priceFrom": "from {price}"
+    "priceFrom": "from {price}",
+    "sidebarHeading": "Categories",
+    "reviewsLangs": "{count} reviews · {languages} languages",
+    "read": "Read →",
+    "noCatArticles": "Articles coming soon for {category}."
   },
   "crossLinks": {
     "headToHead": "Head-to-head",

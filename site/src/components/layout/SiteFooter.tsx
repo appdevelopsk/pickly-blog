@@ -19,7 +19,7 @@ export function SiteFooter() {
   const t = useTranslations();
   return (
     <footer className="force-dark-surface mt-16 bg-slate-900 py-12 text-sm text-slate-400">
-      <div className="mx-auto max-w-5xl px-4">
+      <div className="mx-auto max-w-6xl px-4">
 
         {/* Newsletter */}
         <div className="mb-10">

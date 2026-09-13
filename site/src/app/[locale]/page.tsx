@@ -1,6 +1,7 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
+import { CategorySidebar } from "@/components/layout/CategorySidebar";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
@@ -221,30 +222,9 @@ export default async function HomePage({ params }: Props) {
         <div className="gap-8 pt-6 md:pt-8 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
 
           {/* ── 左サイドバー: 全カテゴリ常設(価格.com 同様) ────────────── */}
-          {/* ★スマホでは横スクロールの帯になる。lg 以上でだけ縦一列に固定する。 */}
-          <aside className="mb-6 lg:mb-0">
-            <nav className="lg:sticky lg:top-4">
-              <ul className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 lg:mx-0 lg:block lg:space-y-0.5 lg:overflow-visible lg:px-0 lg:pb-0">
-                {directory.map(({ category, total }) => {
-                  let label = category;
-                  try { label = t(`category.${category}`); } catch { /* missing */ }
-                  return (
-                    <li key={category} className="shrink-0">
-                      <Link
-                        href={`/category/${category}`}
-                        data-related="home-sidebar"
-                        className="flex items-center gap-2 whitespace-nowrap rounded-lg border border-slate-200 px-3 py-2 text-sm font-medium text-slate-600 transition-colors hover:bg-slate-50 hover:text-brand-700 lg:border-0 lg:px-2 lg:py-1.5"
-                      >
-                        {CATEGORY_ICONS[category] && <span aria-hidden>{CATEGORY_ICONS[category]}</span>}
-                        <span>{label}</span>
-                        <span className="ml-auto hidden text-xs text-slate-400 lg:inline">{total}</span>
-                      </Link>
-                    </li>
-                  );
-                })}
-              </ul>
-            </nav>
-          </aside>
+          {/* 全ページ共通コンポーネントへ切り出し済み(2026-09-13)。
+              トップは件数を持っているので counts を渡して数字も出す。 */}
+          <CategorySidebar counts={Object.fromEntries(directory.map((d) => [d.category, d.total]))} />
 
           {/* ── メインカラム ─────────────────────────────────────────── */}
           <main>

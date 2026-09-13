@@ -92,7 +92,7 @@ export default async function SearchPage({ params }: Props) {
   try { siteName = t("site.name"); } catch { /* missing */ }
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-20">
+    <div className="mx-auto max-w-6xl px-4 pb-20">
 
       {/* Breadcrumb */}
       <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400" aria-label="breadcrumb">

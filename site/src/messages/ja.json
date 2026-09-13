@@ -9,7 +9,11 @@
     "privacy": "プライバシーポリシー",
     "terms": "利用規約",
     "contact": "お問い合わせ",
-    "disclosure": "広告表記"
+    "disclosure": "広告表記",
+    "allCategories": "カテゴリから探す",
+    "searchPlaceholder": "商品名・カテゴリで検索",
+    "menu": "メニュー",
+    "close": "閉じる"
   },
   "home": {
     "heading": "本気で選んだ、本音のレビュー。",
@@ -312,7 +316,8 @@
     "under50": "5,000円以下",
     "under100": "10,000円以下",
     "brands": "ブランド",
-    "search": "検索"
+    "search": "検索",
+    "features": "特集から探す"
   },
   "tagPages": {
     "wireless": {
@@ -670,7 +675,11 @@
     "underDesc": "1位の製品が{budget}円以下に収まる比較だけを集めました。",
     "underHeading": "{budget}円以下のおすすめ製品",
     "underLead": "1位の製品が{budget}円未満の比較 {count} 件。安い順に並べています。",
-    "priceFrom": "{price}〜"
+    "priceFrom": "{price}〜",
+    "sidebarHeading": "カテゴリ",
+    "reviewsLangs": "{count}本のレビュー · {languages}言語",
+    "read": "読む →",
+    "noCatArticles": "{category}の記事は準備中です。"
   },
   "crossLinks": {
     "headToHead": "1対1比較",

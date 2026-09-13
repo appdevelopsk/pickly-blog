@@ -30,7 +30,7 @@ export default async function PurposePage({ params }: Props) {
   const allArticles = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-20">
+    <div className="mx-auto max-w-6xl px-4 pb-20">
       <section className="py-10 md:py-14">
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">
           {tt("pages.purposeHeading", "Browse by Purpose")}

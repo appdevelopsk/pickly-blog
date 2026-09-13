@@ -1,6 +1,7 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
+import { CategorySidebar } from "@/components/layout/CategorySidebar";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
@@ -175,7 +176,10 @@ export default async function ArticlesPage({ params }: Props) {
   try { pageTitle = t("nav.articles"); } catch { /* missing */ }
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-10">
+    <div className="mx-auto max-w-6xl px-4 py-10">
+      <div className="gap-8 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
+        <CategorySidebar />
+        <main>
       {/* Hero */}
       <div className="mb-8">
         <h1 className="text-3xl font-black text-slate-900 mb-2">{pageTitle}</h1>
@@ -237,6 +241,8 @@ export default async function ArticlesPage({ params }: Props) {
           </section>
         );
       })}
+        </main>
+      </div>
     </div>
   );
 }

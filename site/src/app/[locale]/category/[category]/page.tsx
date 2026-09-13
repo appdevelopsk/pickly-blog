@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
+import { CategorySidebar } from "@/components/layout/CategorySidebar";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
@@ -139,7 +140,10 @@ export default async function CategoryPage({ params }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
       />
 
-      <div className="mx-auto max-w-5xl px-4 pb-20">
+      <div className="mx-auto max-w-6xl px-4 pb-20">
+        <div className="gap-8 pt-2 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
+          <CategorySidebar active={category} />
+          <main>
 
         {/* ── Breadcrumb ──────────────────────────────── */}
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400" aria-label="breadcrumb">
@@ -163,7 +167,7 @@ export default async function CategoryPage({ params }: Props) {
                 {catLabel}
               </h1>
               <p className="text-sm text-slate-400 mt-0.5">
-                {articles.length} reviews &nbsp;·&nbsp; 17 languages
+                {tt("pages.reviewsLangs", `${articles.length} reviews · 17 languages`, { count: articles.length, languages: 17 })}
               </p>
             </div>
           </div>
@@ -172,28 +176,14 @@ export default async function CategoryPage({ params }: Props) {
           </p>
         </section>
 
-        {/* ── Category pills (sibling categories) ─────── */}
-        <nav className="mb-10 flex flex-wrap gap-2" aria-label="categories">
-          {VALID_CATEGORIES.filter((c) => c !== category).map((c) => {
-            let label: string = c;
-            try { label = t(`category.${c}`); } catch { /* missing */ }
-            return (
-              <Link
-                key={c}
-                href={`/category/${c}`}
-                className="flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-4 py-1.5 text-sm font-medium text-slate-500 hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700 transition-colors"
-              >
-                {CATEGORY_ICONS[c] && <span aria-hidden>{CATEGORY_ICONS[c]}</span>}
-                {label}
-              </Link>
-            );
-          })}
-        </nav>
+        {/* 兄弟カテゴリのpill列は左サイドバー(CategorySidebar)に統合したので削除。
+            同じリンク集合が上下2箇所に出ると、価格.com 型の「左が案内役」という
+            役割分担が崩れる(2026-09-13)。 */}
 
         {/* ── Articles grid ───────────────────────────── */}
         {articles.length === 0 ? (
           <div className="rounded-xl bg-amber-50 p-8 text-center text-amber-800">
-            <p className="font-semibold">Articles coming soon for {catLabel}.</p>
+            <p className="font-semibold">{tt("pages.noCatArticles", `Articles coming soon for ${catLabel}.`, { category: catLabel })}</p>
           </div>
         ) : (
           <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -248,7 +238,7 @@ export default async function CategoryPage({ params }: Props) {
                           {tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, typeLabel)} · {tt("home.picks", `${picksCount} picks`, { count: picksCount })}
                         </span>
                         <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">
-                          Read →
+                          {tt("pages.read", "Read →")}
                         </span>
                       </div>
                     </div>
@@ -259,6 +249,8 @@ export default async function CategoryPage({ params }: Props) {
           </ul>
         )}
 
+          </main>
+        </div>
       </div>
     </>
   );

@@ -25,7 +25,7 @@ export default async function TagsIndexPage({ params }: Props) {
   };
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-20">
+    <div className="mx-auto max-w-6xl px-4 pb-20">
       <section className="py-10 md:py-14">
         <h1 className="text-3xl font-black tracking-tight text-slate-900 md:text-4xl">{tt("pages.tagsHeading", "Browse by Tag")}</h1>
         <p className="mt-3 max-w-xl text-base text-slate-500 leading-relaxed">

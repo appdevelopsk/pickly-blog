@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { useTranslations } from "next-intl";
 import Fuse from "fuse.js";
 import { Link } from "@/lib/i18n/navigation";
@@ -36,6 +36,18 @@ export function SearchUI({ items, totalCount }: Props) {
     try { return t(key, values); } catch { return fallback; }
   };
   const [query, setQuery] = useState("");
+
+  // ヘッダーの常設検索窓は /search?q=… へ送る。output: export なので
+  // useSearchParams は Suspense 境界が要る(この静的ページには無い)。
+  // マウント後に location から直接読めば境界なしで拾える(2026-09-13)。
+  useEffect(() => {
+    try {
+      const q = new URLSearchParams(window.location.search).get("q");
+      if (q) setQuery(q);
+    } catch {
+      /* URL が読めない環境では空のまま = 従来挙動 */
+    }
+  }, []);
 
   const fuse = useMemo(
     () =>

@@ -126,7 +126,7 @@ export default async function GiftPage({ params }: Props) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(listSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
 
-      <div className="mx-auto max-w-5xl px-4 pb-20">
+      <div className="mx-auto max-w-6xl px-4 pb-20">
 
         {/* Breadcrumb */}
         <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">

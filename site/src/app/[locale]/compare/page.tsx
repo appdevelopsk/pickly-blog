@@ -39,7 +39,7 @@ export default async function CompareIndexPage({ params }: Props) {
   };
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-20">
+    <div className="mx-auto max-w-6xl px-4 pb-20">
       <section className="py-10 md:py-14">
         <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-indigo-50 border border-indigo-200 px-4 py-1.5 text-xs font-bold text-indigo-700">
           ⚖️ {tt("home.compareTitle", "Head-to-head comparisons")}

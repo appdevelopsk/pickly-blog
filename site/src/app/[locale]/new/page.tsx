@@ -1,6 +1,7 @@
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import { LOCALES } from "@/lib/i18n/locales";
 import { Link } from "@/lib/i18n/navigation";
+import { CategorySidebar } from "@/components/layout/CategorySidebar";
 import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
@@ -147,7 +148,10 @@ export default async function NewPage({ params }: Props) {
   return (
     <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-    <div className="mx-auto max-w-5xl px-4 pb-20">
+    <div className="mx-auto max-w-6xl px-4 pb-20">
+      <div className="gap-8 pt-2 lg:grid lg:grid-cols-[200px_minmax(0,1fr)]">
+        <CategorySidebar />
+        <main>
       <nav className="mt-6 flex items-center gap-2 text-xs text-slate-400">
         <Link href="/" className="hover:text-slate-600 transition-colors">{siteName}</Link>
         <span>/</span>
@@ -196,6 +200,8 @@ export default async function NewPage({ params }: Props) {
           <Grid articles={older} />
         </section>
       )}
+        </main>
+      </div>
     </div>
     </>
   );
