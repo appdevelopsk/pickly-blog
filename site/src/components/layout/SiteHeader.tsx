@@ -5,6 +5,7 @@ import { Link, useRouter } from "@/lib/i18n/navigation";
 import { useState } from "react";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { SUBCATEGORIES_BY_PARENT } from "@/lib/pages/subcategory-config";
 
 /**
  * 価格.com 型の3段ヘッダー(2026-09-13 全面改修)。
@@ -136,20 +137,51 @@ export function SiteHeader() {
         </div>
       </div>
 
-      {/* ── 2段目: カテゴリ(サイトの背骨。均等配置で1行に収める) ── */}
-      <div className="hidden border-t border-slate-100 bg-white md:block">
+      {/* ── 2段目: カテゴリ(サイトの背骨。均等配置で1行に収める) ──
+          カーソルを置くと品目(サブカテゴリ)のドロップダウンを出す
+          (2026-09-14, ken 指示)。価格.com と同じで、上位10カテゴリに
+          留まらずその場で品目へ飛べる。開閉は group-hover / group-focus-within
+          の CSS だけで行い useState を増やさない。JS 状態にすると
+          ポインタが項目とパネルの隙間を通った瞬間に閉じる対策が要るうえ、
+          静的書き出しの初期表示で開いたパネルが一瞬見えることがある。
+          hidden ではなく invisible + opacity にしてあるのは、パネル自体に
+          マウスが乗り続けている間も開いたままにするため(display:none だと
+          ホバー対象が消えて自分で自分を閉じる)。 */}
+      <div className="relative hidden border-t border-slate-100 bg-white md:block">
         <nav className="mx-auto flex max-w-6xl items-stretch px-4" aria-label={tt("nav.allCategories", "Browse categories")}>
-          {CATEGORY_LINKS.map(({ key, href, icon }) => (
-            <Link
-              key={key}
-              href={href}
-              data-related="nav"
-              className="flex flex-1 items-center justify-center gap-1.5 border-b-2 border-transparent px-1 py-2.5 text-[13px] font-semibold text-slate-700 transition-colors hover:border-brand-600 hover:bg-brand-50 hover:text-brand-700"
-            >
-              <span aria-hidden className="text-sm">{icon}</span>
-              <span className="truncate">{tt(`category.${key}`, key)}</span>
-            </Link>
-          ))}
+          {CATEGORY_LINKS.map(({ key, href, icon }) => {
+            const subs = SUBCATEGORIES_BY_PARENT[key as keyof typeof SUBCATEGORIES_BY_PARENT] ?? [];
+            return (
+              <div key={key} className="group relative flex flex-1">
+                <Link
+                  href={href}
+                  data-related="nav"
+                  className="flex w-full items-center justify-center gap-1.5 border-b-2 border-transparent px-1 py-2.5 text-[13px] font-semibold text-slate-700 transition-colors group-hover:border-brand-600 group-hover:bg-brand-50 group-hover:text-brand-700 group-focus-within:border-brand-600 group-focus-within:bg-brand-50"
+                >
+                  <span aria-hidden className="text-sm">{icon}</span>
+                  <span className="truncate">{tt(`category.${key}`, key)}</span>
+                </Link>
+
+                {subs.length > 0 && (
+                  <div className="invisible absolute left-1/2 top-full z-50 w-56 -translate-x-1/2 opacity-0 transition-opacity duration-100 group-hover:visible group-hover:opacity-100 group-focus-within:visible group-focus-within:opacity-100">
+                    <ul className="mt-0 overflow-hidden rounded-b-lg border border-t-0 border-slate-200 bg-white py-1 shadow-lg">
+                      {subs.map((sub) => (
+                        <li key={sub.slug}>
+                          <Link
+                            href={`/category/${key}?sub=${sub.slug}`}
+                            data-related="nav-subcategory"
+                            className="block truncate px-3 py-1.5 text-[13px] text-slate-600 transition-colors hover:bg-brand-50 hover:text-brand-700"
+                          >
+                            {tt(`subcategory.${sub.slug}`, sub.label)}
+                          </Link>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </div>
+            );
+          })}
         </nav>
       </div>
 
