@@ -52,6 +52,12 @@ interface Props {
   showCategory?: boolean;
   /** カテゴリバッジにアイコンを出すか(タグ/ブランド等の横断ページ)。 */
   showCategoryIcon?: boolean;
+  /**
+   * フッター右の「続きを読む」文言。ページごとに出自が違うので呼び出し側で決める。
+   * tag は直書き "Read →"、for は tt("home.read") と、元々揃っていなかった。
+   * ここで片方に寄せると結線ついでの文言変更になるので、各ページの現状を渡す。
+   */
+  readLabel?: string;
 }
 
 const CATEGORY_ICONS: Record<string, string> = {
@@ -59,7 +65,7 @@ const CATEGORY_ICONS: Record<string, string> = {
   fashion: "👗", finance: "💰", travel: "✈️", parenting: "👶", pets: "🐾",
 };
 
-export function ArticleFacets({ items, showCategory = true, showCategoryIcon = true }: Props) {
+export function ArticleFacets({ items, showCategory = true, showCategoryIcon = true, readLabel = "Read →" }: Props) {
   const t = useTranslations();
   // ★ t() は throw せず空文字を返す設定。try/catch は死にコードになるので使わない。
   const tt = (key: string, fallback: string, values?: Record<string, string | number>): string => {
@@ -228,9 +234,7 @@ export function ArticleFacets({ items, showCategory = true, showCategoryIcon = t
                   <span className="text-[11px] text-slate-400">
                     {tt(`home.type${item.type.charAt(0).toUpperCase()}${item.type.slice(1)}`, item.typeLabel)} · {tt("home.picks", `${item.offerCount} picks`, { count: item.offerCount })}
                   </span>
-                  {/* 元の tag ページが直書きだったのでそのまま。ここで tt() に
-                      変えると結線ついでの文言変更になり、差分の切り分けが濁る。 */}
-                  <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">Read →</span>
+                  <span className="text-[11px] font-semibold text-brand-600 opacity-0 transition-opacity group-hover:opacity-100">{readLabel}</span>
                 </div>
               </div>
             </Link>

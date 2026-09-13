@@ -8,21 +8,18 @@ import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
-import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
-import { ArticleCardImage } from "@/components/ArticleCardImage";
 import { USE_CASES, USE_CASE_MAP } from "@/lib/pages/usecase-config";
 import type { ArticleMeta } from "@/lib/articles/types";
 import type { AffiliateOffer } from "@/lib/affiliates/types";
 import { localeAlternates } from "@/lib/i18n/alternates";
 import { serpTitle } from "@/lib/seo/title";
 import { resolvePrice } from "@/lib/affiliates/price";
+import { ArticleFacets, type FacetItem } from "@/components/ArticleFacets";
+import { articleGrade } from "@/lib/articles/grades";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://pickly.blog";
 
-const CATEGORY_ICONS: Record<string,string> = {
-  fitness:"🏋️",food:"🍳",tech:"💻",beauty:"✨",home:"🏠",
-  fashion:"👗",finance:"💰",travel:"✈️",parenting:"👶",pets:"🐾",
-};
+/* カテゴリ絵文字とカード描画は ArticleFacets 側へ移動 (2026-09-13)。 */
 const TYPE_LABELS: Record<string,string> = { comparison:"Comparison",review:"Review",guide:"Guide" };
 
 function getThumbnail(a: ArticleMeta, locale: string): string | null {
@@ -103,6 +100,31 @@ export default async function UseCasePage({ params }: Props) {
   let siteName = "Pickly";
   try { siteName = t("site.name"); } catch { /* missing */ }
 
+  // カード表示に要る値はサーバー側で全部解決しておく。badge はこのページが元々
+  // 素通しだったので slug 形式の除外はしない(見た目を変えないため)。
+  const facetItems: FacetItem[] = articles.map((a) => {
+    const { title, description } = loadArticleCardMeta(a.slug, locale);
+    const imgSrc = getThumbnail(a, locale);
+    const offer = firstOffer(a);
+    let catLabel: string = a.category;
+    try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
+    return {
+      slug: a.slug,
+      category: a.category,
+      catLabel,
+      grade: articleGrade(a.offerIds),
+      title,
+      description,
+      imgSrc,
+      isProductImg: Boolean(imgSrc && !imgSrc.includes("/og/")),
+      price: (offer && resolvePrice(offer, locale)) || null,
+      badge: offer?.badge ?? null,
+      typeLabel: TYPE_LABELS[a.type] ?? a.type,
+      type: a.type,
+      offerCount: a.offerIds.length,
+    };
+  });
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(listSchema) }} />
@@ -143,46 +165,10 @@ export default async function UseCasePage({ params }: Props) {
             <p className="font-semibold text-slate-700">{tt("pages.noUsecaseArticles", "No articles found for this use case yet.")}</p>
           </div>
         ) : (
-          <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {articles.map((a) => {
-              const { title, description } = loadArticleCardMeta(a.slug, locale);
-              const imgSrc = getThumbnail(a, locale);
-              const isProductImg = imgSrc && !imgSrc.includes("/og/");
-              const offer = firstOffer(a);
-              let catLabel: string = a.category;
-              try { catLabel = t(`category.${a.category}`); } catch { /* missing */ }
-              return (
-                <li key={a.slug}>
-                  <Link href={`/articles/${a.slug}`}
-                    className="group flex h-full flex-col overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition-all hover:border-brand-200 hover:shadow-lg">
-                    <div className="relative shrink-0 overflow-hidden bg-slate-100" style={{ aspectRatio: "4/3" }}>
-                      <ArticleCardImage src={imgSrc} alt={title}
-                        className={`h-full w-full transition-transform duration-300 group-hover:scale-105 ${isProductImg ? "object-contain p-4" : "object-cover"}`}>
-                        <CategoryPlaceholder category={a.category} title={title} />
-                      </ArticleCardImage>
-                      <span className="absolute left-2.5 top-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-semibold text-slate-700 shadow-sm">
-                        {CATEGORY_ICONS[a.category]} {catLabel}
-                      </span>
-                      {(offer && resolvePrice(offer, locale)) && (
-                        <span className="absolute bottom-2.5 right-2.5 rounded-full bg-white/95 border border-slate-200 px-2.5 py-0.5 text-xs font-bold text-slate-800 shadow-sm">
-                          {resolvePrice(offer, locale)}
-                        </span>
-                      )}
-                    </div>
-                    <div className="flex flex-1 flex-col p-4">
-                      {offer?.badge && <p className="mb-1 text-[11px] font-semibold text-amber-600 truncate">🏆 {offer.badge}</p>}
-                      <h2 className="text-sm font-bold leading-snug text-slate-900 group-hover:text-brand-700 transition-colors line-clamp-2">{title}</h2>
-                      {description && <p className="mt-1.5 flex-1 text-xs text-slate-400 line-clamp-2">{description}</p>}
-                      <div className="mt-3 flex items-center justify-between">
-                        <span className="text-[11px] text-slate-400">{tt(`home.type${a.type.charAt(0).toUpperCase()}${a.type.slice(1)}`, TYPE_LABELS[a.type] ?? a.type)} · {tt("home.picks", `${a.offerIds.length} picks`, { count: a.offerIds.length })}</span>
-                        <span className="text-[11px] font-semibold text-brand-600 opacity-0 group-hover:opacity-100 transition-opacity">{tt("home.read", "Read →")}</span>
-                      </div>
-                    </div>
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
+          /* ★カードの描画は ArticleFacets の中。ここから関数を渡してはいけない
+             (Server→Client に関数は渡せず prerender が落ちる)。
+             readLabel はこのページが元々 tt("home.read") だったのでそれを渡す。 */
+          <ArticleFacets items={facetItems} readLabel={tt("home.read", "Read →")} />
         )}
       </div>
     </>
