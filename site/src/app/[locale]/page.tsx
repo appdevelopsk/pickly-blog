@@ -239,7 +239,7 @@ export default async function HomePage({ params }: Props) {
               {tt("home.heroStats", `${articles.length} reviews · 17 languages`, { count: articles.length, languages: 17 })}
             </span>
           </div>
-          <div className="grid gap-px overflow-hidden rounded-2xl border border-slate-200 bg-slate-200 md:grid-cols-2">
+          <div className="grid gap-px overflow-hidden rounded-2xl border border-slate-200 bg-slate-200 md:grid-cols-2 lg:grid-cols-3">
             {directory.map(({ category, items, total }) => {
               let label = category;
               try { label = t(`category.${category}`); } catch { /* missing */ }
