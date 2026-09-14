@@ -48,7 +48,12 @@ jobs:
           GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
           GA4_PROPERTY_ID: ${{ vars.GA4_PROPERTY_ID }}
           REPORT_OUT: ../GA4_COUNTRIES.md
-          BOT_ALERT_PCT: "20"
+          # 率の絶対値ではなく「前回からの変化幅」で鳴らす(2026-09-14)。
+          # ボット率 38〜44% は定常で、こちらが下げられる数字ではない。
+          BOT_ALERT_DELTA_PCT: "10"
+          # ★判定閾値を 3→8 秒に変えた回のみ 1。次回の実行前に必ず外すこと
+          #   (定義変更による 38.0%→44.4% の差で誤って鳴るのを防ぐためだけの一度きりの措置)。
+          BOT_ALERT_REBASELINE: "1"
         run: node scripts/ga4-country-report.mjs 28
       - name: Commit report
         run: |
@@ -61,8 +66,8 @@ jobs:
           else
             echo "no report change (not configured or no data)"
           fi
-      - name: Alert when bot share exceeds threshold
+      - name: Alert when bot share changes sharply
         if: steps.countries.outputs.bot_alert == 'true'
         run: |
-          echo "::error::GA4 ボット疑い率 ${{ steps.countries.outputs.bot_pct }}% が閾値を超過。GA4_COUNTRIES.md と docs/COUNTRY_ACCESS.md を参照"
+          echo "::error::GA4 ボット疑い率が急変: 前回 ${{ steps.countries.outputs.bot_prev_pct }}% → 今回 ${{ steps.countries.outputs.bot_pct }}% (${{ steps.countries.outputs.bot_delta }}pt)。GA4_COUNTRIES.md と docs/COUNTRY_ACCESS.md を参照"
           exit 1

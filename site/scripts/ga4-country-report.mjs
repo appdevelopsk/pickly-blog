@@ -10,8 +10,13 @@
 //   GA4_PROPERTY_ID=537610479 GA_SERVICE_ACCOUNT_JSON=<path or json> node scripts/ga4-country-report.mjs [days=28]
 //   (SA は GA4 プロパティの閲覧者であること。既定の鍵パスは pickly/.secrets/ga4-service-account.json)
 //   REPORT_OUT=<path>   … Markdown も書き出す(週次 Actions が GA4_COUNTRIES.md に使う)
-//   BOT_ALERT_PCT=20    … ボット疑い率がこれを超えたら GITHUB_OUTPUT に bot_alert=true を書く
-//                        (ジョブ自体はここでは落とさない。落とすのは workflow 側の最後の step)
+//   BOT_ALERT_DELTA_PCT=10 … ボット疑い率が**前回より 10pt 以上動いたら** GITHUB_OUTPUT に
+//                        bot_alert=true を書く(ジョブ自体はここでは落とさない。落とすのは
+//                        workflow 側の最後の step)。前回値は REPORT_OUT の既存ファイルから
+//                        読み戻す。率の絶対値では鳴らさない — 38〜44% は定常で、検出精度を
+//                        上げるほど上がる数字だから(詳細は下の botPct 付近のコメント)。
+//   BOT_ALERT_REBASELINE=1 … 判定ロジックを変えた回だけ警報を抑止する(定義変更による
+//                        差分で鳴るのを防ぐ)。次回以降は付けないこと。
 import { createSign } from "node:crypto";
 import { appendFileSync, existsSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
@@ -165,15 +170,48 @@ for (const b of bots.sort((a, b) => b.users - a.users).slice(0, 15)) console.log
 console.log("\n判定の読み方: docs/COUNTRY_ACCESS.md");
 
 const botPct = (100 * totalBot) / (totalAll || 1);
-const ALERT = Number(process.env.BOT_ALERT_PCT ?? 20);
-const alert = botPct > ALERT;
+
+/**
+ * ★2026-09-14 警報を「率の絶対値」から「率の急変」に変えた。
+ *
+ * なぜ: 旧実装は botPct > 20% で CI を落としていたが、実測は一貫して 38〜44% で
+ * **毎回必ず鳴っていた**。しかもボット率はこちらが下げられる数字ではない
+ * (スキャナ側の都合で決まる)。逆に検出精度を上げるほど率は上がる
+ * — 判定閾値を 3→8 秒にしたら 38.0% → 44.4% に上がった。
+ * つまり旧設計は「検出がうまくいくほど警報が鳴る」逆立ちした作りだった。
+ *
+ * 赤い CI が常態化すると、本当に壊れたときの失敗を見落とす。知りたいのは
+ * 「ボットが多いこと」(既知・定常)ではなく「いつもと違うことが起きた」ことなので、
+ * 前回の率との差分で鳴らす。
+ *
+ * 前回値は GA4_COUNTRIES.md の「## ボット疑い層 N / M users (X%)」行から読み戻す。
+ * このファイルは毎回コミットされているので、状態ファイルを別に増やす必要はない。
+ */
+const DELTA = Number(process.env.BOT_ALERT_DELTA_PCT ?? 10);
+function previousBotPct() {
+  try {
+    const p = process.env.REPORT_OUT;
+    if (!p || !existsSync(p)) return null;
+    const m = readFileSync(p, "utf8").match(/^## ボット疑い層 .*\(([\d.]+)%\)/m);
+    return m ? Number(m[1]) : null;
+  } catch { return null; }
+}
+const prevPct = previousBotPct();
+// 判定ロジック自体を変えた直後は、前回値と比べても「定義が変わった」分しか出ない。
+// その場合に誤って鳴らさないよう、閾値の変更時はこの環境変数で1回だけ抑止する。
+const rebaselined = process.env.BOT_ALERT_REBASELINE === "1";
+const delta = prevPct === null ? null : botPct - prevPct;
+const alert = !rebaselined && delta !== null && Math.abs(delta) >= DELTA;
+const deltaStr = delta === null ? "前回値なし" : `前回 ${prevPct.toFixed(1)}% → 今回 ${botPct.toFixed(1)}% (${delta >= 0 ? "+" : ""}${delta.toFixed(1)}pt)`;
 if (process.env.REPORT_OUT) {
   const md = [
     `# GA4 国別レポート (ボット分離済み)`,
     ``,
     `property ${PROP} / ${start}..${end} / 生成 ${new Date().toISOString().slice(0, 10)}`,
     ``,
-    alert ? `> ⚠ **ボット疑い率 ${botPct.toFixed(1)}% が閾値 ${ALERT}% を超過。** 標準の国別レポートは信用せず、この表の human 列で判断する。gtag の webdriver ゲートで足りていない → Cloudflare Bot Fight Mode を検討(承認制)。` : `ボット疑い率 ${botPct.toFixed(1)}% (閾値 ${ALERT}%)。`,
+    alert
+      ? `> ⚠ **ボット疑い率が急変した: ${deltaStr}。** 変化幅が ${DELTA}pt 以上。スキャナの流入が変わった可能性がある。標準の国別レポートは信用せず、この表の human 列で判断する。対処が要るなら Cloudflare Bot Fight Mode を検討(承認制)。`
+      : `ボット疑い率 ${botPct.toFixed(1)}%（${deltaStr}）。**この率が高いこと自体は警報ではない**(38〜44%が定常。検出精度を上げるほど上がる数字で、下げるべき指標ではない)。急変したときだけ鳴らす。`,
     ``,
     `読み方: docs/COUNTRY_ACCESS.md。human = Direct×滞在<${BOT_SEC_PER_USER}秒/人×${BOT_MIN_USERS}人以上 の塊を除いた数。`,
     ``,
@@ -205,5 +243,10 @@ if (process.env.REPORT_OUT) {
   writeFileSync(process.env.REPORT_OUT, md);
   console.log(`wrote ${process.env.REPORT_OUT}`);
 }
-if (process.env.GITHUB_OUTPUT) appendFileSync(process.env.GITHUB_OUTPUT, `bot_alert=${alert}\nbot_pct=${botPct.toFixed(1)}\n`);
-if (alert) console.log(`⚠ bot share ${botPct.toFixed(1)}% > ${ALERT}%`);
+if (process.env.GITHUB_OUTPUT) {
+  appendFileSync(
+    process.env.GITHUB_OUTPUT,
+    `bot_alert=${alert}\nbot_pct=${botPct.toFixed(1)}\nbot_delta=${delta === null ? "" : delta.toFixed(1)}\nbot_prev_pct=${prevPct === null ? "" : prevPct.toFixed(1)}\n`,
+  );
+}
+console.log(alert ? `⚠ bot share 急変: ${deltaStr} (閾値 ${DELTA}pt)` : `bot share ${botPct.toFixed(1)}% (${deltaStr})${rebaselined ? " ※再基準化のため警報は抑止" : ""}`);
