@@ -251,15 +251,17 @@ const DEAD_HOST_KEYS = Object.keys(DEAD_HOSTS);
  * しか得られない。セッションは切れる。切れたら人間がそこへ行って
  * サインインするしか復旧手段が無いので、行き先を画面に置く。
  */
+// ★2026-09-14: 退役5カ国(uk/fr/it/es/ca)を表示から外した。
+//   これらは asp.ts の RETIRED_AMAZON_NETWORKS で US(Earn Globally)へ退避済みで、
+//   リンクが1本も向いていない(本番実測: 退役タグの混入ゼロ)。ログインし直しても
+//   ダッシュボードは常にゼロなので、行き先として出すと「切れている」と誤読させる。
+//   ※表示だけの削除。asp.ts の退役定義と audit-affiliate-localization.ts の
+//     RETIRED_TAGS は再混入検知に使うので消さないこと。
+//   ※DE は本承認済み(pickly01-21)で稼働中なので残す。
 const LOGIN_TARGETS = [
   { key: "us", label: "Amazon アソシエイト US", url: "https://affiliate-program.amazon.com/home" },
   { key: "jp", label: "Amazon アソシエイト JP", url: "https://affiliate.amazon.co.jp/home" },
   { key: "de", label: "Amazon PartnerNet DE", url: "https://partnernet.amazon.de/home" },
-  { key: "uk", label: "Amazon アソシエイト UK", url: "https://affiliate-program.amazon.co.uk/home" },
-  { key: "fr", label: "Amazon Partenaires FR", url: "https://partenaires.amazon.fr/home" },
-  { key: "it", label: "Amazon Affiliazione IT", url: "https://programma-affiliazione.amazon.it/home" },
-  { key: "es", label: "Amazon Afiliados ES", url: "https://afiliados.amazon.es/home" },
-  { key: "ca", label: "Amazon Associates CA", url: "https://associates.amazon.ca/home" },
 ];
 
 function collectLogins() {
