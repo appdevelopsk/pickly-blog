@@ -6,6 +6,8 @@ import { listArticlesForLocale } from "@/lib/articles/registry";
 import { loadArticleCardMeta } from "@/lib/i18n/loader";
 import { CATALOG } from "@/lib/affiliates/catalog";
 import { hasApprovedAds } from "@/lib/affiliates/has-ads";
+import { rakutenProductMatch } from "@/lib/affiliates/rakuten";
+import { getYahooMatch } from "@/lib/affiliates/yahoo";
 import { getOfferImageUrl } from "@/lib/affiliates/images";
 import { OG_BASE_URL, DEFAULT_OG_IMAGES } from "@/lib/og";
 import { CategoryPlaceholder } from "@/components/CategoryPlaceholder";
@@ -36,9 +38,35 @@ const TYPE_LABELS: Record<string, string> = {
 };
 
 /**
+ * カタログに円価格が無いオファーについて、楽天/Yahoo キャッシュから円価格を引く。
+ *
+ * 生キャッシュを直接読まず `rakutenProductMatch` / `getYahooMatch` を通すのは、
+ * この2関数が (1) 商品名のトークン一致ガード (2) デジタル商品の除外
+ * (3) Yahoo の無タグURL排除(無報酬流出の防止) を持っているため。
+ * 生読みすると別商品の値段を記事に貼る。
+ *
+ * 返すのは JPY のみ。キャッシュは国内モールなので通貨は常に円で、
+ * USD ロケールはこの経路を通らない。
+ */
+function cacheJpyPrice(o: AffiliateOffer): number | null {
+  const nameEn = o.name?.en;
+  const nameJa = o.name?.ja;
+  const r = rakutenProductMatch(o.id, nameEn, nameJa);
+  const rp = r?.price ?? r?.priceMin ?? null;
+  if (rp) return rp;
+  const y = getYahooMatch(o.id, nameEn, nameJa);
+  return y?.price ?? y?.priceMin ?? null;
+}
+
+/**
  * 記事の最安オファーを返す。ロケールの表示通貨に一致するオファーだけを見る。
  * カタログの price は通貨混在フィールドで、円建ては JP専売オファーの別価格。
  * 通貨をまたいで min を取ると「$29 の記事」が ja で ¥9,000 として並ぶので比較しない。
+ *
+ * 円建ては CATALOG だけだと ja 787件中 85件(10.8%)しか埋まらず、/ja/under/* が
+ * 実質的に空だった。楽天/Yahoo キャッシュを**カタログに円価格が無いときだけ**
+ * フォールバックで見ることで 578件(73.4%)になる(実測 2026-09-14)。
+ * カタログ優先なのは、そちらが手入れされた値だから。
  */
 function minPrice(a: ArticleMeta, currency: string): ParsedPrice | null {
   let min: ParsedPrice | null = null;
@@ -46,7 +74,11 @@ function minPrice(a: ArticleMeta, currency: string): ParsedPrice | null {
     const o = CATALOG.find((x) => x.id === id);
     if (!o) continue;
     // Try price, then priceMin
-    const p = parsePrice(o.price) ?? parsePrice(o.priceMin);
+    let p = parsePrice(o.price) ?? parsePrice(o.priceMin);
+    if ((!p || p.currency !== "JPY") && currency === "JPY") {
+      const yen = cacheJpyPrice(o);
+      if (yen !== null) p = { amount: yen, currency: "JPY" };
+    }
     if (!p || p.currency !== currency) continue;
     if (min === null || p.amount < min.amount) min = p;
   }
@@ -103,12 +135,21 @@ export default async function UnderBudgetPage({ params }: Props) {
   const amountLabel = budgetAmountLabel(budgetKey as Budget, locale);
 
   const all = listArticlesForLocale(locale).filter((a) => hasApprovedAds(a, locale));
+
+  // 価格は記事ごとに1回だけ引いて使い回す。minPrice() は JPY のとき
+  // 楽天/Yahoo キャッシュへの照合を伴うので、sort の比較関数から呼ぶと
+  // O(n log n) 回、さらに描画でもう1回走る。ここで確定させる。
+  const priceOf = new Map<string, ParsedPrice>();
+  for (const a of all) {
+    const p = minPrice(a, currency);
+    if (p) priceOf.set(a.slug, p);
+  }
   const articles = all
     .filter((a) => {
-      const p = minPrice(a, currency);
-      return p !== null && fitsBudget(p, budgetKey as Budget);
+      const p = priceOf.get(a.slug);
+      return p !== undefined && fitsBudget(p, budgetKey as Budget);
     })
-    .sort((a, b) => (minPrice(a, currency)?.amount ?? 0) - (minPrice(b, currency)?.amount ?? 0));
+    .sort((a, b) => (priceOf.get(a.slug)?.amount ?? 0) - (priceOf.get(b.slug)?.amount ?? 0));
 
   // Group by category
   const byCategory: Record<string, ArticleMeta[]> = {};
@@ -202,7 +243,7 @@ export default async function UnderBudgetPage({ params }: Props) {
                       const imgSrc = getThumbnail(a, locale);
                       const isProductImg = imgSrc && !imgSrc.includes("/og/");
                       const offer = firstOffer(a);
-                      const p = minPrice(a, currency);
+                      const p = priceOf.get(a.slug) ?? null;
                       return (
                         <li key={a.slug}>
                           <Link
