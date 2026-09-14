@@ -6,9 +6,11 @@
   "What we cover",
   "[aria-label] breadcrumb"
  ],
+ "src/app/[locale]/category/[category]/[sub]/page.tsx": [
+  "[aria-label] breadcrumb"
+ ],
  "src/app/[locale]/category/[category]/page.tsx": [
-  "[aria-label] breadcrumb",
-  "[aria-label] categories"
+  "[aria-label] breadcrumb"
  ],
  "src/app/[locale]/gifts/[occasion]/page.tsx": [
   "[aria-label] Other occasions"
@@ -43,8 +45,5 @@
  ],
  "src/components/layout/SiteFooter.tsx": [
   "&nbsp;"
- ],
- "src/components/layout/SiteHeader.tsx": [
-  "[aria-label] menu"
  ]
 }
