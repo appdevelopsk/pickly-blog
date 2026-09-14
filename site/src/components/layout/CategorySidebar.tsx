@@ -104,7 +104,7 @@ export function CategorySidebar({ active, counts }: Props) {
                     {SUBCATEGORIES_BY_PARENT[category as keyof typeof SUBCATEGORIES_BY_PARENT]!.map((sub) => (
                       <li key={sub.slug}>
                         <Link
-                          href={`/category/${category}?sub=${sub.slug}`}
+                          href={`/category/${category}/${sub.slug}`}
                           data-related="sidebar-subcategory"
                           className="block rounded-lg px-2 py-1 text-[13px] text-slate-500 transition-colors hover:bg-slate-50 hover:text-brand-700"
                         >

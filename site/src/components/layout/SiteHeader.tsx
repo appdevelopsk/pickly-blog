@@ -168,7 +168,7 @@ export function SiteHeader() {
                       {subs.map((sub) => (
                         <li key={sub.slug}>
                           <Link
-                            href={`/category/${key}?sub=${sub.slug}`}
+                            href={`/category/${key}/${sub.slug}`}
                             data-related="nav-subcategory"
                             className="block truncate px-3 py-1.5 text-[13px] text-slate-600 transition-colors hover:bg-brand-50 hover:text-brand-700"
                           >

@@ -12,6 +12,7 @@ import { BRANDS } from "@/lib/pages/brand-config";
 import { SALE_EVENTS } from "@/lib/pages/sale-config";
 import { TAGS } from "@/lib/pages/tag-config";
 import { COMPARISONS } from "@/lib/pages/compare-config";
+import { SUBCATEGORIES } from "@/lib/pages/subcategory-config";
 
 export const dynamic = "force-static";
 
@@ -198,6 +199,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
         alternates: {
           languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/category/${cat}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/category/${cat}/` }),
+        },
+      });
+    }
+  }
+
+  // Subcategory (品目) pages × indexed locales。61品目 × 11 = 671 URL。
+  // カテゴリと同じ IDX 条件で出す(ページ側 localeAlternates も IDX なので三者一致)。
+  // priority はカテゴリ(0.7)より一段下。品目はカテゴリの下位集合なので、
+  // 同点にすると両方が競合して sitemap のヒントとして機能しない。
+  for (const s of SUBCATEGORIES) {
+    const path = `category/${s.parent}/${s.slug}`;
+    for (const locale of IDX) {
+      out.push({
+        url: `${SITE_URL}/${locale}/${path}/`,
+        lastModified: latestForLocale.get(locale),
+        changeFrequency: "weekly",
+        priority: 0.6,
+        alternates: {
+          languages: withEnglishGeoAlternates({ ...Object.fromEntries(IDX.map((l) => [l, `${SITE_URL}/${l}/${path}/`])), "x-default": `${SITE_URL}/${DEFAULT_LOCALE}/${path}/` }),
         },
       });
     }
