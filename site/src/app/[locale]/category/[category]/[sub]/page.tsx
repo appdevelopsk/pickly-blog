@@ -90,10 +90,16 @@ export default async function SubcategoryPage({ params }: Props) {
     return v ? v : fallback;
   };
 
+  // 並びは「更新日の新しい順」。REGISTRY の定義順は登録の都合であって読者にとって
+  // 意味のある順序ではない(実測で ja 790件中38箇所が日付の逆順。coffee-tea では
+  // 最新の3件が38件の中に埋もれ5月の記事が先頭に来ていた)。
+  // updatedAt は同日が多いので(coffee-tea は38件で7種類)、同点は slug で tie-break
+  // して固定する。入れないと並びがビルドごとに揺れて無意味な差分が出る。
   const articles = listArticlesForLocale(locale)
     .filter((a) => a.category === category)
     .filter((a) => hasApprovedAds(a, locale))
-    .filter((a) => matchesSubcategory(a.slug, config));
+    .filter((a) => matchesSubcategory(a.slug, config))
+    .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt) || a.slug.localeCompare(b.slug));
 
   let catLabel = category;
   try { catLabel = t(`category.${category}`); } catch { /* missing */ }

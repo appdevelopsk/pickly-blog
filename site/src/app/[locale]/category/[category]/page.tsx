@@ -99,8 +99,13 @@ export default async function CategoryPage({ params }: Props) {
     return v ? v : fallback;
   };
 
+  // 並びは「更新日の新しい順」(品目ページと揃える)。REGISTRY の定義順は登録の都合で
+  // あって読者にとって意味のある順序ではない。updatedAt は同日が多いので同点は slug で
+  // tie-break して固定する。入れないと並びがビルドごとに揺れて無意味な差分が出る。
   const allInCat = listArticlesForLocale(locale).filter((a) => a.category === category);
-  const articles = allInCat.filter((a) => hasApprovedAds(a, locale));
+  const articles = allInCat
+    .filter((a) => hasApprovedAds(a, locale))
+    .sort((a, b) => b.updatedAt.localeCompare(a.updatedAt) || a.slug.localeCompare(b.slug));
 
   let catLabel = category;
   try { catLabel = t(`category.${category}`); } catch { /* missing */ }
