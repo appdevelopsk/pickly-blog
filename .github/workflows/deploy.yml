@@ -170,15 +170,13 @@ jobs:
       #   アフィリタグの無い Amazon リンク625本(クリックしても1円にならない)、
       #   全ロケールで英語のままの <title> 971ページ、「Pickly | Pickly」の二重ブランド。
       #   いずれも画面上は正常に見えるので、出来上がった HTML を検査するしかない。
-      # ヒープを広げる理由(2026-09-14): check-index-health.mjs は out/ 配下の
-      # index.html を全件読んで sitemap と突き合わせる。出力が 7.2GB /
-      # 13,970ページまで育ち、Node 既定の約4GB上限に当たって
-      # "Reached heap limit" で exit 134 になった(run 34766187479)。
-      # 検査自体は正しいので、内容を削るのではなく上限を上げる。
-      # ubuntu-latest は 16GB なので 8GB なら余裕がある。
+      # ヒープ上限は既定のままでよい(2026-09-14): 一度 exit 134 の OOM が出たが
+      # (run 34766187479)、真因は出力の量ではなく check-index-health.mjs の
+      # regex 捕捉が V8 の SlicedString として親のページHTML全体を保持していたこと。
+      # 3946de5ea で実体化(own)と </head> までの切り出しを入れて解消済みで、
+      # 実測ピークは 184MB。ここで --max-old-space-size を盛ると、同種の退行が
+      # 再発しても上限に当たるまで気づけなくなるので、あえて既定で走らせる。
       - name: Gate the built output
-        env:
-          NODE_OPTIONS: --max-old-space-size=8192
         run: npm run check:output
 
       # Cloudflare Pages は1デプロイ20,000ファイルまで。記事の解放でこれを超えて
