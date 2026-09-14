@@ -72,10 +72,71 @@ for (const { d: [country, channel, language], m: [users, engaged, dur, key] } of
 }
 const fmt = (n, w = 6) => String(n).padStart(w);
 console.log(`GA4 property ${PROP}  ${start}..${end}\n`);
+
+/**
+ * ★2026-09-14 追加: 診断列 "top10%"(ページ閲覧の上位集中度)。
+ *
+ * これは**自動判定ではない**。意図的に判定に使っていない。
+ *
+ * 経緯: Singapore 167 users が上の isBotSuspect(Direct×滞在<3秒/人)を素通りし、
+ * 「ボット混入ゼロ・US に次ぐ2位の優良トラフィック」として表示されていた。実体は
+ * 全記事を機械的に1周するスキャナで、閲覧ページ TOP15 が全て views=2 users=2、
+ * 滞在は 0秒 か 8〜23秒 の二択、166/167 が Direct、9/09-9/11 の3日に平常の30倍が
+ * 集中していた。平均滞在 8.4 秒で**閾値3秒のすぐ外側**にいたため捕まらなかった。
+ *
+ * 閾値ベースの判定は、閾値の外側を通る相手を原理的に検出できない。だから閾値を
+ * 足すのではなく、**人間が異常に気づける材料を並べる**方針にした。
+ *
+ * top10% = 閲覧数上位10%のページが全ページビューに占める割合。
+ *   人間は人気記事に偏るので高い。スキャナは全記事を均等に踏むので低い。
+ *   2026-09-14 実測: Singapore 11% / Spain 20% / South Korea 25% / France 27%
+ *                    Germany 30% / United States 35% / Brazil 36% / Japan 41%
+ *   → 20% 未満が続く国は、数字が大きくても読者ではない可能性を疑う。
+ *
+ * ★他の指標を判定に使わなかった理由(いずれも実測で否定済み。再提案しないこと):
+ *   - 最頻値占有率: Singapore 63% に対し France 82% / Spain 85% と**人間の方が高い**。
+ *   - 0秒ページ率: Singapore 62% に対し **United States 77%**。US 自体に 649 人の
+ *     ボットが混ざっているため。国単位では人間とボットを分離できない。
+ *   - 日別バースト: Singapore 3.9x に対し South Korea 3.6x / Brazil 3.2x で差が薄い。
+ */
+async function topShareByCountry(countries) {
+  const out = new Map();
+  for (const country of countries) {
+    try {
+      const pr = await report(tok, {
+        dateRanges,
+        dimensions: [{ name: "pagePath" }],
+        metrics: [{ name: "screenPageViews" }],
+        dimensionFilter: { filter: { fieldName: "country", stringFilter: { value: country } } },
+        orderBys: [{ desc: true, metric: { metricName: "screenPageViews" } }],
+        limit: 2000,
+      });
+      // ページ数が少ない国は比率が暴れるだけなので出さない(誤読の元)。
+      if (pr.length < 10) { out.set(country, null); continue; }
+      const v = pr.map((r) => r.m[0]);
+      const total = v.reduce((a, b) => a + b, 0);
+      const top = Math.max(1, Math.floor(v.length * 0.1));
+      out.set(country, total ? v.slice(0, top).reduce((a, b) => a + b, 0) / total : null);
+    } catch { out.set(country, null); }
+  }
+  return out;
+}
+
 console.log("== 国別 (human = ボット疑い層を除いた数) ==");
-console.log(`${"country".padEnd(22)}${fmt("all")}${fmt("human")}${fmt("eng")}${fmt("sec/u", 7)}${fmt("key")}`);
+console.log(`${"country".padEnd(22)}${fmt("all")}${fmt("human")}${fmt("eng")}${fmt("sec/u", 7)}${fmt("key")}${fmt("top10%", 8)}`);
 const sorted = [...byCountry].sort((a, b) => b[1].human - a[1].human).slice(0, 30);
-for (const [country, c] of sorted) console.log(`${country.padEnd(22)}${fmt(c.users)}${fmt(c.human)}${fmt(c.engaged)}${fmt(c.human ? Math.round(c.dur / c.human) : 0, 7)}${fmt(c.key)}`);
+const tops = await topShareByCountry(sorted.map(([c]) => c));
+const topStr = (t) => (t === null || t === undefined ? "-" : `${Math.round(t * 100)}%`);
+for (const [country, c] of sorted) {
+  const t = tops.get(country);
+  // 印は human>=50 の国にだけ付ける。母数が小さい国は「20人が20ページを1回ずつ」で
+  // 集中度が構造的に下がるため、閾値を割るのが普通で、印を付けても意味を持たない
+  // (2026-09-14 実測: United Kingdom 19人で10%, Netherlands 20人で14%, Peru 12人で10%)。
+  // 境界は 15%。20% にすると Spain(20%, 45秒/人・キーイベント23件・Amazon €3.17 の実収益あり)
+  // が毎回引っかかる。実収益のある国を疑う印は、印そのものが読み流される原因になる。
+  const mark = t !== null && t !== undefined && t < 0.15 && c.human >= 50 ? " ←均一" : "";
+  console.log(`${country.padEnd(22)}${fmt(c.users)}${fmt(c.human)}${fmt(c.engaged)}${fmt(c.human ? Math.round(c.dur / c.human) : 0, 7)}${fmt(c.key)}${fmt(topStr(t), 8)}${mark}`);
+}
 const totalAll = [...byCountry.values()].reduce((s, c) => s + c.users, 0);
 const totalBot = bots.reduce((s, b) => s + b.users, 0);
 console.log(`\n== ボット疑い層 (Direct × 滞在<3秒/人 × 10人以上) : ${totalBot} / ${totalAll} users = ${((100 * totalBot) / (totalAll || 1)).toFixed(1)}% ==`);
@@ -95,9 +156,23 @@ if (process.env.REPORT_OUT) {
     ``,
     `読み方: docs/COUNTRY_ACCESS.md。human = Direct×滞在<3秒/人×10人以上 の塊を除いた数。`,
     ``,
-    `| country | all | human | engaged | sec/user | key events |`,
-    `|---|---:|---:|---:|---:|---:|`,
-    ...sorted.map(([country, c]) => `| ${country} | ${c.users} | ${c.human} | ${c.engaged} | ${c.human ? Math.round(c.dur / c.human) : 0} | ${c.key} |`),
+    `**top10% 列は自動判定ではなく人が読むための材料。** 閲覧数上位10%のページが全ページ`,
+    `ビューに占める割合。人間は人気記事に偏るので高く、全記事を1周するスキャナは低い。`,
+    `2026-09-14 実測: Singapore 11% / Spain 20% / South Korea 25% / France 27% /`,
+    `Germany 30% / United States 35% / Brazil 36% / Japan 41%。**15% 未満が続く国は、`,
+    `human の数字が大きくても読者でない可能性を疑う**(Singapore 167人は平均滞在 8.4 秒で`,
+    `閾値3秒の外側を通り、「ボット混入ゼロの優良トラフィック」として表示されていた)。`,
+    `境界は 15%。20% にすると Spain(20%・45秒/人・キーイベント23件・Amazon €3.17 の実収益)`,
+    `が毎回引っかかり、印が読み流される。`,
+    `**ただし human が 50 人未満の国では読まないこと。** 母数が小さいと「20人が20ページを`,
+    `1回ずつ」で集中度が構造的に下がり、健全な国でも 10〜15% になる(UK 19人で10%,`,
+    `Netherlands 20人で14%)。コンソール出力の ←均一 印も human>=50 にだけ付く。`,
+    ``,
+    `human 列からは除外していない。除外する閾値を足しても、その外側を通る相手は捕まらない。`,
+    ``,
+    `| country | all | human | engaged | sec/user | key events | top10% |`,
+    `|---|---:|---:|---:|---:|---:|---:|`,
+    ...sorted.map(([country, c]) => `| ${country} | ${c.users} | ${c.human} | ${c.engaged} | ${c.human ? Math.round(c.dur / c.human) : 0} | ${c.key} | ${topStr(tops.get(country))} |`),
     ``,
     `## ボット疑い層 ${totalBot} / ${totalAll} users (${botPct.toFixed(1)}%)`,
     ``,
