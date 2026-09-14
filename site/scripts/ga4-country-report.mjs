@@ -46,11 +46,29 @@ async function report(tok, body) {
   return (j.rows ?? []).map((row) => ({ d: row.dimensionValues.map((v) => v.value), m: row.metricValues.map((v) => Number(v.value)) }));
 }
 
-// ボット疑い: Direct 流入で、1人あたり平均滞在が 3 秒未満(10 人以上の塊のみ)。
+// ボット疑い: Direct 流入で、1人あたり平均滞在が 8 秒未満(10 人以上の塊のみ)。
 // エンゲージ率は使わない: スキャナは 2 ページ踏むだけで「エンゲージ済みセッション」に
 // 数えられる(US×中国語 646 users がエンゲージ 16% なのに滞在 0 秒だった)。
-// 人間の Direct は数十秒は滞在する。閾値は 8/12–9/8 の実測から。
-const isBotSuspect = (users, _engaged, durSec) => users >= 10 && durSec / users < 3;
+//
+// ★2026-09-14 閾値を 3 秒 → 8 秒に引き上げた。実測(2026-08-17..09-13, Direct 1,924 users,
+//   国×言語×端末で集計)で、しきい値を動かしたときに落ちる人数と、そこに巻き込まれる
+//   keyEvents は次のとおり:
+//     <3秒: 1,106人 / keyEv 0    <5秒: 1,267人 / keyEv 0    <8秒: 1,277人 / keyEv 0
+//     <10秒: 1,291人 / keyEv 2   <15秒: 1,551人 / keyEv 14
+//   → 8 秒までは**本物の読者(keyEv)を1件も巻き込まずに**取りこぼしだけを拾える。
+//     10 秒を超えると keyEv を巻き込み始めるので 8 が上限。
+//   3 秒のままでは Singapore 161 users(滞在 4.6 秒・keyEv 0)が素通りしていた。これは
+//   全記事を機械的に1周するスキャナで、閾値のすぐ外側を通っていた(下の top10% の経緯を参照)。
+//
+// ★言語(Chinese)での除外は意図的に採らない。滞在 0 秒の塊は確かに
+//   US×中国語 649 / China 226 / Iran 66 / Russia 49 = 990 users(keyEv 全て 0)に集中するが、
+//   言語で一律に切ると将来その言語圏の**実在の読者が黙って消える**(zh-TW は滞在 27 秒の
+//   実読者がいる)。滞在時間で切れば本物は自動的に残る。
+// 画面の見出しにも出すので定数にする(ベタ書きすると閾値を変えたとき表示だけ古くなる)。
+const BOT_SEC_PER_USER = 8;
+const BOT_MIN_USERS = 10;
+const isBotSuspect = (users, _engaged, durSec) =>
+  users >= BOT_MIN_USERS && durSec / users < BOT_SEC_PER_USER;
 
 const key = loadKey();
 const tok = await token(key);
@@ -78,7 +96,10 @@ console.log(`GA4 property ${PROP}  ${start}..${end}\n`);
  *
  * これは**自動判定ではない**。意図的に判定に使っていない。
  *
- * 経緯: Singapore 167 users が上の isBotSuspect(Direct×滞在<3秒/人)を素通りし、
+ * 経緯: Singapore 167 users が当時の isBotSuspect(Direct×滞在<3秒/人)を素通りし、
+ * (※この Singapore は 2026-09-14 の閾値 3→8 秒で捕捉されるようになった。ただし
+ *   下の「閾値の外側を通る相手は原理的に検出できない」という話は閾値を動かしても
+ *   変わらないので、この診断列は引き続き必要。)
  * 「ボット混入ゼロ・US に次ぐ2位の優良トラフィック」として表示されていた。実体は
  * 全記事を機械的に1周するスキャナで、閲覧ページ TOP15 が全て views=2 users=2、
  * 滞在は 0秒 か 8〜23秒 の二択、166/167 が Direct、9/09-9/11 の3日に平常の30倍が
@@ -139,7 +160,7 @@ for (const [country, c] of sorted) {
 }
 const totalAll = [...byCountry.values()].reduce((s, c) => s + c.users, 0);
 const totalBot = bots.reduce((s, b) => s + b.users, 0);
-console.log(`\n== ボット疑い層 (Direct × 滞在<3秒/人 × 10人以上) : ${totalBot} / ${totalAll} users = ${((100 * totalBot) / (totalAll || 1)).toFixed(1)}% ==`);
+console.log(`\n== ボット疑い層 (Direct × 滞在<${BOT_SEC_PER_USER}秒/人 × ${BOT_MIN_USERS}人以上) : ${totalBot} / ${totalAll} users = ${((100 * totalBot) / (totalAll || 1)).toFixed(1)}% ==`);
 for (const b of bots.sort((a, b) => b.users - a.users).slice(0, 15)) console.log(`${b.country.padEnd(22)}${b.language.padEnd(12)}${fmt(b.users)} users  eng=${b.engaged}  ${(b.dur / b.users).toFixed(1)}s/u`);
 console.log("\n判定の読み方: docs/COUNTRY_ACCESS.md");
 
@@ -154,7 +175,7 @@ if (process.env.REPORT_OUT) {
     ``,
     alert ? `> ⚠ **ボット疑い率 ${botPct.toFixed(1)}% が閾値 ${ALERT}% を超過。** 標準の国別レポートは信用せず、この表の human 列で判断する。gtag の webdriver ゲートで足りていない → Cloudflare Bot Fight Mode を検討(承認制)。` : `ボット疑い率 ${botPct.toFixed(1)}% (閾値 ${ALERT}%)。`,
     ``,
-    `読み方: docs/COUNTRY_ACCESS.md。human = Direct×滞在<3秒/人×10人以上 の塊を除いた数。`,
+    `読み方: docs/COUNTRY_ACCESS.md。human = Direct×滞在<${BOT_SEC_PER_USER}秒/人×${BOT_MIN_USERS}人以上 の塊を除いた数。`,
     ``,
     `**top10% 列は自動判定ではなく人が読むための材料。** 閲覧数上位10%のページが全ページ`,
     `ビューに占める割合。人間は人気記事に偏るので高く、全記事を1周するスキャナは低い。`,
