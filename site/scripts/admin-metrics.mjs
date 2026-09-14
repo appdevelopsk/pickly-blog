@@ -307,7 +307,12 @@ function collectAmazon(clicksByDomain = []) {
   // 国は日替わりローテーション(1実行あたりのドメイン数を増やすとセッションを切られる)
   // なので、各国は6日に1度しか更新されない。全体の asOf では1国だけの死に気づけない。
   // 却下確定・復元不可のアカウントは CSV に過去行が残るので毎日 stale として鳴り続ける
-  const RETIRED_MARKETS = new Set(["it"]); // 2026-08-24 アカウント却下確定・復元不可
+  // ★2026-09-14: it だけでなく退役5カ国すべてを除外。uk/fr/es/ca も asp.ts の
+  //   RETIRED_AMAZON_NETWORKS で US(Earn Globally)へ退避済みで、リンクが1本も
+  //   向いていない(本番実測: 退役タグの混入ゼロ)。CSV には過去行が残るので、
+  //   除外しないと「UK のログインが切れている」と毎日鳴り続ける = 是正済みの
+  //   残骸を現在の障害と誤読させる。DE は本承認済み(pickly01-21)なので対象外。
+  const RETIRED_MARKETS = new Set(["it", "uk", "fr", "es", "ca"]);
   for (const r of latest.values()) {
     if (RETIRED_MARKETS.has(r.account)) continue;
     const d = Math.floor((Date.now() - Date.parse(r.date)) / 864e5);

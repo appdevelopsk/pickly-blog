@@ -17187,11 +17187,6 @@ const RAW_CATALOG: AffiliateOffer[] = [
       ja: "ステップクライマー＋動くアーム、20レベル抵抗、タッチスクリーン、JRNYアプリ。最高のコネクテッドホームステップクライマー——上半身の関与がカロリー消費を追加、コンパクト設置面積。",
     },
     links: [
-      { network: "amazon-jp", productId: "B09BFXM9", rawUrl: "https://www.amazon.co.jp/dp/B09BFXM9", markets: ["JP"], approved: true },
-      { network: "amazon-us", productId: "B09BFXM9", rawUrl: "https://www.amazon.com/dp/B09BFXM9", markets: ["US"], approved: true },
-      { network: "amazon-de", productId: "B09BFXM9", rawUrl: "https://www.amazon.de/dp/B09BFXM9", markets: ["EU"], approved: true },
-      { network: "amazon-uk", productId: "B09BFXM9", rawUrl: "https://www.amazon.co.uk/dp/B09BFXM9", markets: ["UK"], approved: true },
-      { network: "amazon-ca", productId: "B09BFXM9", rawUrl: "https://www.amazon.ca/dp/B09BFXM9", markets: ["CA"], approved: true },
       { network: "moshimo", productId: "rakuten-bowflex-max-m9", rawUrl: "https://af.moshimo.com/af/c/click?a_id=5538597&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBowflex+Max+Trainer%2F", markets: ["JP"], approved: true },
     ],
   },
