@@ -5548,7 +5548,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "ha-serum-laneige-water-bank",
-    "imageUrl": "https://media.sephora.eu/content/dam/digital/pim/published/L/LANEIGE/795578/388949-media_swatch-0.jpg?scaleWidth=undefined&scaleHeight=undefined&scaleMode=undefined",
+    "imageUrl": "https://lyko.com/globalassets/product-images/laneige-water-bank-blue-hyaluronic-serum-50-ml-2765-160-0050_2.jpg?ref=6CFBAD9264&w=960&h=960&mode=max&quality=75&format=jpg",
     "priceMin": "$45",
     "priceMax": "$45",
     "category": "beauty",
@@ -12129,7 +12129,7 @@ export const CATALOG_ADDITIONS = [
   },
   {
     "id": "usb-hub-anker-564-usb-c",
-    "imageUrl": "https://m.media-amazon.com/images/I/61P6TNPO55L._AC_SL1500_.jpg",
+    "imageUrl": "https://m.media-amazon.com/images/I/6173WI2VOHL._AC_.jpg",
     "priceMin": "6000",
     "priceMax": "9000",
     "category": "tech",
